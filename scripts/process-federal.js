@@ -1,5 +1,5 @@
 // scripts/process-federal.js
-const XLSX = require('xlsx');
+const xlsx = require('node-xlsx');
 const axios = require('axios');
 const fs = require('fs');
 const path = require('path');
@@ -126,12 +126,18 @@ const main = async () => {
     
     // Parse Excel file
     console.log('📊 Parsing Excel data...');
-    const workbook = XLSX.read(response.data, { type: 'buffer' });
-    const sheetName = workbook.SheetNames[0];
-    const worksheet = workbook.Sheets[sheetName];
+    const workbook = xlsx.parse(response.data);
+    const worksheet = workbook[0]; // First sheet
     
-    // Convert to JSON
-    const rawData = XLSX.utils.sheet_to_json(worksheet);
+    // Convert to JSON (skip header row)
+    const headers = worksheet.data[0];
+    const rawData = worksheet.data.slice(1).map(row => {
+      const obj = {};
+      headers.forEach((header, index) => {
+        obj[header] = row[index];
+      });
+      return obj;
+    });
     console.log(`📋 Found ${rawData.length} raw entries`);
     
     // Process the data
