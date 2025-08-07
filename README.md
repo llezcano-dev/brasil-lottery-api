@@ -19,15 +19,15 @@ Base URL: `https://yourusername.github.io/your-repo-name/`
 
 | Method | Endpoint | Description |
 |--------|----------|-------------|
-| GET | `/api/{lottery}/index.json` | List all contests for a lottery |
-| GET | `/api/{lottery}/contest/{number}.json` | Get specific contest by number |
-| GET | `/api/{lottery}/contest/latest.json` | Get latest contest results |
+| GET | `/v1/lotteries/{lottery}/index.json` | List all draws for a lottery |
+| GET | `/v1/lotteries/{lottery}/draws/{number}.json` | Get specific draw by number |
+| GET | `/v1/lotteries/{lottery}/draws/latest.json` | Get latest draw results |
 
 ### Example URLs
 
-- `https://yourusername.github.io/your-repo/api/federal/contest/1.json`
-- `https://yourusername.github.io/your-repo/api/federal/contest/latest.json` 
-- `https://yourusername.github.io/your-repo/api/federal/index.json`
+- `https://yourusername.github.io/your-repo/v1/lotteries/federal/draws/1.json`
+- `https://yourusername.github.io/your-repo/v1/lotteries/federal/draws/latest.json` 
+- `https://yourusername.github.io/your-repo/v1/lotteries/federal/index.json`
 
 ## Setup Instructions
 
@@ -43,8 +43,7 @@ Base URL: `https://yourusername.github.io/your-repo-name/`
 3. **Add all the Python scripts** to your repository:
    - `lottery_downloader.py`
    - `xlsx_to_csv.py` (your existing script)
-   - `csv_to_api.py` (your updated script)
-   - `create_latest_endpoint.py`
+   - `federal_csv_to_api.py` (your updated script)
    - `create_github_pages.py`
 
 4. **Add the workflow file** at `.github/workflows/update-lottery-api.yml`
@@ -91,24 +90,24 @@ your-repo/
 
 3. **Check your API:**
    - Visit: `https://yourusername.github.io/your-repo/`
-   - Your API will be available at: `https://yourusername.github.io/your-repo/api/`
+   - Your API will be available at: `https://yourusername.github.io/your-repo/v1/lotteries/`
 
 ## JSON Response Format
 
 ```json
 {
-  "contest": "123",
+  "drawNumber": "123",
   "date": "2024-01-15",
   "results": [
     {
-      "index": 1,
+      "position": 1,
       "value": "012345",
-      "reward": 200000.0
+      "prizeAmount": 200000.0
     },
     {
-      "index": 2,
+      "position": 2,
       "value": "067890",
-      "reward": 8000.0
+      "prizeAmount": 8000.0
     }
   ]
 }
@@ -147,7 +146,7 @@ The API includes CORS headers for browser requests. You can fetch data directly 
 
 ```javascript
 // Fetch latest federal lottery results
-fetch('https://yourusername.github.io/your-repo/api/federal/contest/latest.json')
+fetch('https://yourusername.github.io/your-repo/v1/lotteries/federal/draws/latest.json')
   .then(response => response.json())
   .then(data => console.log(data));
 ```
@@ -166,7 +165,7 @@ fetch('https://yourusername.github.io/your-repo/api/federal/contest/latest.json'
 
 ### Missing latest endpoint
 - Ensure `create_latest_endpoint.py` runs after API generation
-- Check if contest data exists in the generated files
+- Check if draw data exists in the generated files
 
 ## Data Source
 

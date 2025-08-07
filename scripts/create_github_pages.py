@@ -43,8 +43,8 @@ def create_main_index(docs_dir):
                             data = json.load(f)
                             api_types.append({
                                 "name": item,
-                                "total_contests": data.get("total_contests", 0),
-                                "latest": data.get("latest_contest", {})
+                                "total_draws": data.get("total_draws", 0),
+                                "latest": data.get("latest_draw", {})
                             })
                     except:
                         pass
@@ -173,13 +173,13 @@ def create_main_index(docs_dir):
         <div class="api-card">
             <h3>{api["name"]}</h3>
             <div class="api-info">
-                <span><strong>Total Contests:</strong> {api["total_contests"]}</span>
-                <span><strong>Latest:</strong> #{api["latest"].get("contest", "N/A")}</span>
+                <span><strong>Total draws:</strong> {api["total_draws"]}</span>
+                <span><strong>Latest:</strong> #{api["latest"].get("drawNumber", "N/A")}</span>
             </div>
             <p><strong>Latest Date:</strong> {api["latest"].get("date", "N/A")}</p>
             <p>
                 <a href="api/{api["name"]}/index.json" target="_blank">📋 View Index</a> |
-                <a href="api/{api["name"]}/contest/latest.json" target="_blank">🆕 Latest Result</a>
+                <a href="api/{api["name"]}/draws/latest.json" target="_blank">🆕 Latest Result</a>
             </p>
         </div>
         ''' for api in api_types)}
@@ -191,30 +191,30 @@ def create_main_index(docs_dir):
         
         <div class="endpoint">
             <span class="method">GET</span>
-            <span class="url">/api/{{lottery}}/index.json</span>
+            <span class="url">/v1/lotteries/{{lottery}}/index.json</span>
         </div>
-        <p>Returns index with all available contests for a lottery type.</p>
+        <p>Returns index with all available draws for a lottery type.</p>
         
         <div class="endpoint">
             <span class="method">GET</span>
-            <span class="url">/api/{{lottery}}/contest/{{number}}.json</span>
+            <span class="url">/v1/lotteries/{{lottery}}/draws/{{number}}.json</span>
         </div>
-        <p>Returns specific contest results by number.</p>
+        <p>Returns specific draw results by number.</p>
         
         <div class="endpoint">
             <span class="method">GET</span>
-            <span class="url">/api/{{lottery}}/contest/latest.json</span>
+            <span class="url">/v1/lotteries/{{lottery}}/draws/latest.json</span>
         </div>
-        <p>Returns the most recent contest results.</p>
+        <p>Returns the most recent draw results.</p>
         
         <h3>Example URLs:</h3>
         <div class="endpoint">
             <span class="method">GET</span>
-            <span class="url"><a href="api/federal/contest/1.json">api/federal/contest/1.json</a></span>
+            <span class="url"><a href="api/federal/draws/1.json">api/federal/draws/1.json</a></span>
         </div>
         <div class="endpoint">
             <span class="method">GET</span>
-            <span class="url"><a href="api/federal/contest/latest.json">api/federal/contest/latest.json</a></span>
+            <span class="url"><a href="api/federal/draws/latest.json">api/federal/draws/latest.json</a></span>
         </div>
         <div class="endpoint">
             <span class="method">GET</span>

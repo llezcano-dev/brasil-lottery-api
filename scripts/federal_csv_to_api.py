@@ -80,7 +80,7 @@ def get_prize_variants(i: int):
     return premio_variants, valor_variants
 
 def extract_basic_info(row: dict):
-    """Extract essential contest information from a CSV row."""
+    """Extract essential draw information from a CSV row."""
     extracao_num = clean_value(row.get('Extração', '')) or clean_value(row.get('**Extração**', ''))
     data_sorteio = clean_value(row.get('Data Sorteio', '')) or clean_value(row.get('**Data Sorteio**', ''))
     return extracao_num, data_sorteio
@@ -105,13 +105,13 @@ def extract_prizes(row: dict):
 
         if premio and valor:
             results.append({
-                "index": i,
-                "value": premio,
-                "reward": parse_monetary_value(valor)
+                "position": i,
+                "winningNumber": premio,
+                "prizeAmount": parse_monetary_value(valor)
             })
     return results
 
-def process_row(row_num: int, row: dict, contest_folder: str):
+def process_row(row_num: int, row: dict, draw_folder: str):
     """Process single CSV row and save JSON file."""
     try:
         extracao_num, data_sorteio = extract_basic_info(row)
@@ -120,13 +120,13 @@ def process_row(row_num: int, row: dict, contest_folder: str):
             return
 
         api_response = {
-            "contest": extracao_num,
+            "drawNumber": extracao_num,
             "date": parse_date_to_iso(data_sorteio),
             "results": extract_prizes(row)
         }
 
         filename = f"{extracao_num}.json"
-        filepath = os.path.join(contest_folder, filename)
+        filepath = os.path.join(draw_folder, filename)
         with open(filepath, 'w', encoding='utf-8') as jsonfile:
             json.dump(api_response, jsonfile, ensure_ascii=False, indent=2)
         print(f"Created: {filepath}")
@@ -134,7 +134,7 @@ def process_row(row_num: int, row: dict, contest_folder: str):
     except Exception as e:
         print(f"Error processing row {row_num}: {e}")
 
-def create_api_structure(csv_file_path: str, api_folder: str = "api"):
+def create_api_structure(csv_file_path: str, api_folder: str = "v1/lotteries"):
     """
     Create static API structure from CSV data.
 
@@ -148,8 +148,8 @@ def create_api_structure(csv_file_path: str, api_folder: str = "api"):
     ensure_dir_exists(api_folder)
     csv_folder = os.path.join(api_folder, csv_filename)
     ensure_dir_exists(csv_folder)
-    contest_folder = os.path.join(csv_folder, "contest")
-    ensure_dir_exists(contest_folder)
+    draw_folder = os.path.join(csv_folder, "draws")
+    ensure_dir_exists(draw_folder)
 
     # Read and process CSV
     with open(csv_file_path, 'r', encoding='utf-8') as csvfile:
@@ -168,50 +168,50 @@ def create_api_structure(csv_file_path: str, api_folder: str = "api"):
             # Process the row and get the path to the created JSON file
             extracao_num, _ = extract_basic_info(row)
             if extracao_num:
-                last_file_path = os.path.join(contest_folder, f"{extracao_num}.json")
+                last_file_path = os.path.join(draw_folder, f"{extracao_num}.json")
 
-            process_row(row_num, row, contest_folder)
+            process_row(row_num, row, draw_folder)
 
     # Copy last row's JSON to latest.json
     if last_file_path and os.path.exists(last_file_path):
-        latest_path = os.path.join(contest_folder, "latest.json")
+        latest_path = os.path.join(draw_folder, "latest.json")
         shutil.copyfile(last_file_path, latest_path)
-        print(f"Copied latest contest JSON to: {latest_path}")
+        print(f"Copied latest draw JSON to: {latest_path}")
 
-    # Create index file listing all contests
-    create_index_file(contest_folder, csv_folder, csv_filename)
+    # Create index file listing all draws
+    create_index_file(draw_folder, csv_folder, csv_filename)
 
     print(f"\nAPI generation complete! Files created in '{csv_folder}' folder.")
-    print(f"Access individual contests: {csv_folder}/contest/{{number}}.json")
-    print(f"Access latest contest: {csv_folder}/contest/latest.json")
+    print(f"Access individual draws: {csv_folder}/draws/{{number}}.json")
+    print(f"Access latest draw: {csv_folder}/draws/latest.json")
     print(f"Access index: {csv_folder}/index.json")
 
 
-def create_index_file(contest_folder: str, csv_folder: str, csv_filename: str):
-    """Create an index file with all available contests."""
-    contests = []
+def create_index_file(draw_folder: str, csv_folder: str, csv_filename: str):
+    """Create an index file with all available draws."""
+    draws = []
     
-    for filename in os.listdir(contest_folder):
+    for filename in os.listdir(draw_folder):
         if filename.endswith('.json'):
-            filepath = os.path.join(contest_folder, filename)
+            filepath = os.path.join(draw_folder, filename)
             try:
                 with open(filepath, 'r', encoding='utf-8') as f:
                     data = json.load(f)
-                    contests.append({
-                        "contest": data["contest"],
+                    draws.append({
+                        "drawNumber": data["drawNumber"],
                         "date": data["date"],
-                        "endpoint": f"/api/{csv_filename}/contest/{data['contest']}"
+                        "endpoint": f"/v1/lotteries/{csv_filename}/draws/{data['drawNumber']}"
                     })
             except Exception as e:
                 print(f"Error reading {filename}: {e}")
     
-    # Sort by contest number
-    contests.sort(key=lambda x: int(x["contest"]) if x["contest"].isdigit() else 0)
+    # Sort by draw number
+    draws.sort(key=lambda x: int(x["drawNumber"]) if x["drawNumber"].isdigit() else 0)
     
     index_data = {
-        "contest_type": csv_filename,
-        "total_contests": len(contests),
-        "contests": contests
+        "type": csv_filename,
+        "count": len(draws),
+        "draws": draws
     }
     
     index_path = os.path.join(csv_folder, "index.json")
@@ -224,7 +224,7 @@ def main():
     
     if len(sys.argv) != 2:
         print("Usage: python csv_to_api.py input.csv")
-        print("This will create an 'api' folder with JSON files for each contest.")
+        print("This will create an 'v1' folder with JSON files for each draw.")
         sys.exit(1)
     
     csv_file = sys.argv[1]

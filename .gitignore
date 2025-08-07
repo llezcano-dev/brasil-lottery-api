@@ -60,3 +60,9 @@ dmypy.json
 # PyPI configuration file
 .pypirc
 
+# downloaded files
+*.csv
+*.xlsx
+
+# generated files
+v1/
