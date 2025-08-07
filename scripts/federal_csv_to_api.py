@@ -1,6 +1,7 @@
 import csv
 import json
 import os
+import shutil
 from datetime import datetime
 
 def clean_value(value: str) -> str:
@@ -43,141 +44,148 @@ def get_csv_filename_without_extension(csv_path: str) -> str:
     filename = os.path.basename(csv_path)
     return os.path.splitext(filename)[0]
 
+import os
+import csv
+import json
+
+def ensure_dir_exists(path: str):
+    """Create directory if it doesn't exist."""
+    if not os.path.exists(path):
+        os.makedirs(path)
+
+def detect_csv_delimiter(csvfile) -> str:
+    """Detect CSV delimiter by sniffing the sample of the file."""
+    sample = csvfile.read(1024)
+    csvfile.seek(0)
+    sniffer = csv.Sniffer()
+    try:
+        return sniffer.sniff(sample).delimiter
+    except csv.Error:
+        return ','  # Default delimiter
+
+def get_prize_variants(i: int):
+    """Generate possible variants for prize and value column names."""
+    premio_variants = [
+        f"{i}º prêmio",
+        f"**{i}º prêmio**",
+        f"{i}° prêmio",
+        f"**{i}° prêmio**"
+    ]
+    valor_variants = [
+        f"Valor {i}º prêmio",
+        f"**Valor {i}º prêmio**",
+        f"Valor {i}° prêmio",
+        f"**Valor {i}° prêmio**"
+    ]
+    return premio_variants, valor_variants
+
+def extract_basic_info(row: dict):
+    """Extract essential contest information from a CSV row."""
+    extracao_num = clean_value(row.get('Extração', '')) or clean_value(row.get('**Extração**', ''))
+    data_sorteio = clean_value(row.get('Data Sorteio', '')) or clean_value(row.get('**Data Sorteio**', ''))
+    return extracao_num, data_sorteio
+
+def extract_prizes(row: dict):
+    """Extract prizes info from a CSV row."""
+    results = []
+    for i in range(1, 6):
+        premio_variants, valor_variants = get_prize_variants(i)
+        premio = ""
+        valor = ""
+
+        for variant in premio_variants:
+            if variant in row and row[variant]:
+                premio = parse_prize_number(row[variant])
+                break
+
+        for variant in valor_variants:
+            if variant in row and row[variant]:
+                valor = row[variant]
+                break
+
+        if premio and valor:
+            results.append({
+                "index": i,
+                "value": premio,
+                "reward": parse_monetary_value(valor)
+            })
+    return results
+
+def process_row(row_num: int, row: dict, contest_folder: str):
+    """Process single CSV row and save JSON file."""
+    try:
+        extracao_num, data_sorteio = extract_basic_info(row)
+        if not extracao_num or not data_sorteio:
+            print(f"Warning: Missing basic data in row {row_num}, skipping...")
+            return
+
+        api_response = {
+            "contest": extracao_num,
+            "date": parse_date_to_iso(data_sorteio),
+            "results": extract_prizes(row)
+        }
+
+        filename = f"{extracao_num}.json"
+        filepath = os.path.join(contest_folder, filename)
+        with open(filepath, 'w', encoding='utf-8') as jsonfile:
+            json.dump(api_response, jsonfile, ensure_ascii=False, indent=2)
+        print(f"Created: {filepath}")
+
+    except Exception as e:
+        print(f"Error processing row {row_num}: {e}")
+
 def create_api_structure(csv_file_path: str, api_folder: str = "api"):
     """
     Create static API structure from CSV data.
-    
+
     Args:
         csv_file_path: Path to the CSV file
         api_folder: Name of the API folder to create
     """
-    
-    # Get CSV filename for nested folder structure
     csv_filename = get_csv_filename_without_extension(csv_file_path)
-    
-    # Create API directory structure: api/CSV_NAME/contest/
-    if not os.path.exists(api_folder):
-        os.makedirs(api_folder)
-    
+
+    # Create directory structure
+    ensure_dir_exists(api_folder)
     csv_folder = os.path.join(api_folder, csv_filename)
-    if not os.path.exists(csv_folder):
-        os.makedirs(csv_folder)
-    
+    ensure_dir_exists(csv_folder)
     contest_folder = os.path.join(csv_folder, "contest")
-    if not os.path.exists(contest_folder):
-        os.makedirs(contest_folder)
-    
+    ensure_dir_exists(contest_folder)
+
     # Read and process CSV
     with open(csv_file_path, 'r', encoding='utf-8') as csvfile:
-        # Try different delimiters
-        sample = csvfile.read(1024)
-        csvfile.seek(0)
-        
-        # Detect delimiter
-        sniffer = csv.Sniffer()
-        delimiter = ','
-        try:
-            delimiter = sniffer.sniff(sample).delimiter
-        except:
-            # Fallback to comma if detection fails
-            pass
-        
+        delimiter = detect_csv_delimiter(csvfile)
         reader = csv.DictReader(csvfile, delimiter=delimiter)
-        
-        # Get the actual fieldnames from the first row
+
         fieldnames = reader.fieldnames
         if not fieldnames:
             print("Error: Could not read CSV headers")
             return
-        
+
         print(f"Detected columns: {fieldnames}")
-        
-        # Process each row
+
+        last_file_path = None
         for row_num, row in enumerate(reader, 1):
-            try:
-                # Extract basic info
-                extracao_num = clean_value(row.get('Extração', ''))
-                if not extracao_num:
-                    # Try alternative column names
-                    extracao_num = clean_value(row.get('**Extração**', ''))
-                
-                data_sorteio = clean_value(row.get('Data Sorteio', ''))
-                if not data_sorteio:
-                    # Try alternative column names
-                    data_sorteio = clean_value(row.get('**Data Sorteio**', ''))
-                
-                if not extracao_num or not data_sorteio:
-                    print(f"Warning: Missing basic data in row {row_num}, skipping...")
-                    continue
-                
-                # Create the response structure with new format
-                api_response = {
-                    "contest": extracao_num,
-                    "date": parse_date_to_iso(data_sorteio),
-                    "results": []
-                }
-                
-                # Extract prizes (1º to 5º prêmio)
-                for i in range(1, 6):
-                    premio_key = f"{i}º prêmio"
-                    valor_key = f"Valor {i}º prêmio"
-                    
-                    # Try with and without asterisks
-                    premio_variants = [
-                        premio_key,
-                        f"**{i}º prêmio**",
-                        f"{i}° prêmio",
-                        f"**{i}° prêmio**"
-                    ]
-                    
-                    valor_variants = [
-                        valor_key,
-                        f"**Valor {i}º prêmio**",
-                        f"Valor {i}° prêmio",
-                        f"**Valor {i}° prêmio**"
-                    ]
-                    
-                    premio = ""
-                    valor = ""
-                    
-                    # Find the correct column names
-                    for variant in premio_variants:
-                        if variant in row and row[variant]:
-                            premio = parse_prize_number(row[variant])
-                            break
-                    
-                    for variant in valor_variants:
-                        if variant in row and row[variant]:
-                            valor = row[variant]
-                            break
-                    
-                    # Only add if both prize number and value exist
-                    if premio and valor:
-                        api_response["results"].append({
-                            "index": i,
-                            "value": premio,
-                            "reward": parse_monetary_value(valor)
-                        })
-                
-                # Save JSON file for this contest
-                filename = f"{extracao_num}.json"
-                filepath = os.path.join(contest_folder, filename)
-                
-                with open(filepath, 'w', encoding='utf-8') as jsonfile:
-                    json.dump(api_response, jsonfile, ensure_ascii=False, indent=2)
-                
-                print(f"Created: {filepath}")
-                
-            except Exception as e:
-                print(f"Error processing row {row_num}: {e}")
-                continue
-    
-    # Create an index file listing all contests
+            # Process the row and get the path to the created JSON file
+            extracao_num, _ = extract_basic_info(row)
+            if extracao_num:
+                last_file_path = os.path.join(contest_folder, f"{extracao_num}.json")
+
+            process_row(row_num, row, contest_folder)
+
+    # Copy last row's JSON to latest.json
+    if last_file_path and os.path.exists(last_file_path):
+        latest_path = os.path.join(contest_folder, "latest.json")
+        shutil.copyfile(last_file_path, latest_path)
+        print(f"Copied latest contest JSON to: {latest_path}")
+
+    # Create index file listing all contests
     create_index_file(contest_folder, csv_folder, csv_filename)
-    
+
     print(f"\nAPI generation complete! Files created in '{csv_folder}' folder.")
     print(f"Access individual contests: {csv_folder}/contest/{{number}}.json")
+    print(f"Access latest contest: {csv_folder}/contest/latest.json")
     print(f"Access index: {csv_folder}/index.json")
+
 
 def create_index_file(contest_folder: str, csv_folder: str, csv_filename: str):
     """Create an index file with all available contests."""

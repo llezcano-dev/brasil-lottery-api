@@ -70,8 +70,7 @@ your-repo/
 │       └── update-lottery-api.yml
 ├── lottery_downloader.py
 ├── xlsx_to_csv.py
-├── csv_to_api.py
-├── create_latest_endpoint.py
+├── federal_csv_to_api.py
 ├── create_github_pages.py
 └── README.md
 ```
@@ -129,8 +128,7 @@ To add more lottery types, modify the workflow file:
 - name: Download lottery data
   run: |
     python lottery_downloader.py Federal federal
-    python lottery_downloader.py Megasena megasena
-    python lottery_downloader.py Lotofacil lotofacil
+    python lottery_downloader.py Mega-Sena megasena
 
 - name: Convert Excel to CSV
   run: |
@@ -140,9 +138,7 @@ To add more lottery types, modify the workflow file:
 
 - name: Generate API files
   run: |
-    python csv_to_api.py federal.csv
-    python csv_to_api.py megasena.csv
-    python csv_to_api.py lotofacil.csv
+    python feredal_csv_to_api.py federal.csv
 ```
 
 ## CORS Support
