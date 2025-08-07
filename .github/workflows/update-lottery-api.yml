@@ -1,5 +1,8 @@
 name: Update Lottery API
 
+permissions:
+  contents: write
+
 on:
   schedule:
     # Run daily at 2 AM UTC (adjust timezone as needed)
