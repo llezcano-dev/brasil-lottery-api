@@ -1,148 +1,181 @@
-# 🎲 Brasil Lottery API
+# Brazilian Lottery API
 
-A static API for Brazilian lottery results, automatically updated via GitHub Actions.
+🎲 Automated static API for Brazilian lottery results, powered by GitHub Actions and GitHub Pages.
 
-## 📋 API Endpoints
+## Features
 
-Base URL: `https://yourusername.github.io/brasil-lottery-api`
+- ✅ **Automated daily updates** via GitHub Actions
+- ✅ **Static API** served via GitHub Pages
+- ✅ **Latest endpoint** for most recent results
+- ✅ **Multiple lottery types** support
+- ✅ **Clean JSON structure** with ISO dates and numeric values
+- ✅ **CORS enabled** for browser requests
 
-### Get Latest Result
+## API Endpoints
+
+Base URL: `https://yourusername.github.io/your-repo-name/`
+
+### Available Endpoints
+
+| Method | Endpoint | Description |
+|--------|----------|-------------|
+| GET | `/api/{lottery}/index.json` | List all contests for a lottery |
+| GET | `/api/{lottery}/contest/{number}.json` | Get specific contest by number |
+| GET | `/api/{lottery}/contest/latest.json` | Get latest contest results |
+
+### Example URLs
+
+- `https://yourusername.github.io/your-repo/api/federal/contest/1.json`
+- `https://yourusername.github.io/your-repo/api/federal/contest/latest.json` 
+- `https://yourusername.github.io/your-repo/api/federal/index.json`
+
+## Setup Instructions
+
+### 1. Repository Setup
+
+1. **Create a new GitHub repository**
+2. **Clone and add files:**
+   ```bash
+   git clone https://github.com/yourusername/your-repo.git
+   cd your-repo
+   ```
+
+3. **Add all the Python scripts** to your repository:
+   - `lottery_downloader.py`
+   - `xlsx_to_csv.py` (your existing script)
+   - `csv_to_api.py` (your updated script)
+   - `create_latest_endpoint.py`
+   - `create_github_pages.py`
+
+4. **Add the workflow file** at `.github/workflows/update-lottery-api.yml`
+
+### 2. GitHub Pages Setup
+
+1. **Enable GitHub Pages:**
+   - Go to your repo → Settings → Pages
+   - Source: "GitHub Actions"
+   - Save
+
+2. **Repository permissions:**
+   - Go to Settings → Actions → General
+   - Workflow permissions: "Read and write permissions"
+   - Allow GitHub Actions to create and approve pull requests: ✅
+
+### 3. File Structure
+
 ```
-GET /api/federal/latest/
+your-repo/
+├── .github/
+│   └── workflows/
+│       └── update-lottery-api.yml
+├── lottery_downloader.py
+├── xlsx_to_csv.py
+├── csv_to_api.py
+├── create_latest_endpoint.py
+├── create_github_pages.py
+└── README.md
 ```
 
-### Get Specific Contest
-```
-GET /api/federal/{contest}/
-```
+### 4. First Run
 
-### Get Specific Prize Result
-```
-GET /api/federal/{contest}/result/{index}
-```
-Where `index` is 1-5 (1st through 5th prize)
+1. **Push your code:**
+   ```bash
+   git add .
+   git commit -m "Add lottery API automation"
+   git push origin main
+   ```
 
-## 📊 Response Format
+2. **Manual trigger** (optional):
+   - Go to Actions tab in your GitHub repo
+   - Click "Update Lottery API"
+   - Click "Run workflow"
 
-### Contest Data
+3. **Check your API:**
+   - Visit: `https://yourusername.github.io/your-repo/`
+   - Your API will be available at: `https://yourusername.github.io/your-repo/api/`
+
+## JSON Response Format
+
 ```json
 {
-  "contest": 5123,
+  "contest": "123",
   "date": "2024-01-15",
   "results": [
     {
       "index": 1,
-      "value": "005349",
-      "price": 200000.00
+      "value": "012345",
+      "reward": 200000.0
     },
     {
       "index": 2,
-      "value": "038031", 
-      "price": 8000.00
+      "value": "067890",
+      "reward": 8000.0
     }
   ]
 }
 ```
 
-### Individual Prize
-```json
-{
-  "value": "005349",
-  "price": 200000.00
-}
+## Automation Schedule
+
+- **Daily updates** at 2 AM UTC
+- **Manual trigger** available in GitHub Actions
+- **Automatic deployment** to GitHub Pages
+
+## Adding More Lotteries
+
+To add more lottery types, modify the workflow file:
+
+```yaml
+- name: Download lottery data
+  run: |
+    python lottery_downloader.py Federal federal
+    python lottery_downloader.py Megasena megasena
+    python lottery_downloader.py Lotofacil lotofacil
+
+- name: Convert Excel to CSV
+  run: |
+    python xlsx_to_csv.py federal.xlsx federal.csv
+    python xlsx_to_csv.py megasena.xlsx megasena.csv
+    python xlsx_to_csv.py lotofacil.xlsx lotofacil.csv
+
+- name: Generate API files
+  run: |
+    python csv_to_api.py federal.csv
+    python csv_to_api.py megasena.csv
+    python csv_to_api.py lotofacil.csv
 ```
 
-## 🚀 Setup
+## CORS Support
 
-1. **Fork this repository**
+The API includes CORS headers for browser requests. You can fetch data directly from JavaScript:
 
-2. **Enable GitHub Pages**
-   - Go to Settings > Pages
-   - Source: GitHub Actions
-
-3. **Configure the workflow** (optional)
-   - Edit `.github/workflows/update-lottery-api.yml`
-   - Modify the cron schedule if needed
-
-4. **Run the workflow**
-   - Go to Actions tab
-   - Run "Update Lottery API" manually or wait for scheduled run
-
-## 🔄 How it Works
-
-1. **Data Source**: Downloads Excel file from Caixa API
-2. **Processing**: Converts Excel data to JSON format
-3. **API Generation**: Creates static JSON files for each endpoint
-4. **Deployment**: Deploys to GitHub Pages automatically
-
-## 📅 Update Schedule
-
-The API updates automatically twice daily at:
-- 8:00 AM UTC (5:00 AM BRT)
-- 8:00 PM UTC (5:00 PM BRT)
-
-You can also trigger updates manually from the Actions tab.
-
-## 🛠️ Local Development
-
-```bash
-# Install dependencies
-npm install
-
-# Generate API locally
-npm run build
-
-# Serve locally
-npm run dev
+```javascript
+// Fetch latest federal lottery results
+fetch('https://yourusername.github.io/your-repo/api/federal/contest/latest.json')
+  .then(response => response.json())
+  .then(data => console.log(data));
 ```
 
-Visit `http://localhost:3000` to see your API.
+## Troubleshooting
 
-## 📁 Generated Structure
+### Workflow fails
+- Check Actions tab for error messages
+- Ensure all Python scripts are in the repository
+- Verify GitHub Pages is enabled with "GitHub Actions" source
 
-```
-dist/
-├── index.html                    # API documentation
-├── api/
-│   ├── meta.json                # API metadata
-│   └── federal/
-│       ├── latest.json          # Latest result
-│       ├── 1/
-│       │   ├── index.json       # Contest 1 data
-│       │   └── result/
-│       │       ├── 1.json       # 1st prize
-│       │       ├── 2.json       # 2nd prize
-│       │       └── ...
-│       ├── 2/
-│       │   └── ...
-│       └── ...
-```
+### API not accessible  
+- Wait 5-10 minutes after workflow completion
+- Check if GitHub Pages deployment succeeded
+- Verify the URL format matches your repository name
 
-## 🎯 Features
+### Missing latest endpoint
+- Ensure `create_latest_endpoint.py` runs after API generation
+- Check if contest data exists in the generated files
 
-- ✅ **Zero server costs** - Static files hosted on GitHub Pages
-- ✅ **Automatic updates** - Runs via GitHub Actions
-- ✅ **Fast response times** - CDN-cached JSON files
-- ✅ **RESTful API** - Clean, predictable endpoints
-- ✅ **Historical data** - Access to all past contests
-- ✅ **Individual prizes** - Query specific prize positions
+## Data Source
 
-## 🌐 CORS
+Data is sourced from [Caixa Econômica Federal](https://loterias.caixa.gov.br/) official API.
 
-All endpoints include CORS headers, so you can use this API from any frontend application.
+## License
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test locally with `npm run dev`
-5. Submit a pull request
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-**Note**: This API is for educational/personal use. The lottery data belongs to Caixa Econômica Federal.
+MIT License - Feel free to use and modify as needed.

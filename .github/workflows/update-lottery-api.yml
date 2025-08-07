@@ -1,46 +1,50 @@
-# .github/workflows/update-lottery-api.yml
 name: Update Lottery API
+
 on:
   schedule:
-    - cron: '0 8,20 * * *'  # Run at 8 AM and 8 PM UTC (twice daily)
+    # Run daily at 2 AM UTC (adjust timezone as needed)
+    - cron: '0 2 * * *'
   workflow_dispatch: # Allow manual trigger
   push:
-    branches: [main]
-    paths: ['scripts/**'] # Only run if scripts change
+    branches: [ main ]
 
 jobs:
   update-api:
     runs-on: ubuntu-latest
-    permissions:
-      contents: read
-      pages: write
-      id-token: write
     
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+    - name: Checkout repository
+      uses: actions/checkout@v4
       
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '18'
-      
-      - name: Install dependencies
-        run: npm ci
-      
-      - name: Download and process lottery data
-        run: node scripts/process-federal.js
-        env:
-          LOTTERY_URL: 'https://servicebus2.caixa.gov.br/portaldeloterias/api/resultados/download?modalidade=Federal'
-      
-      - name: Setup Pages
-        uses: actions/configure-pages@v4
-      
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: './dist'
-      
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests pyexcel
+        
+    - name: Download lottery data
+      run: |
+        python scripts/lottery_downloader.py Federal federal
+        
+    - name: Convert Excel to CSV
+      run: |
+        python scripts/xlsx_to_csv.py federal.xlsx federal.csv
+        
+    - name: Generate API files
+      run: |
+        python scripts/federal_csv_to_api.py federal.csv
+        
+    - name: Create index.html for GitHub Pages
+      run: |
+        python scripts/create_github_pages.py
+        
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./docs
+        force_orphan: true
