@@ -54,9 +54,6 @@ venv.bak/
 .dmypy.json
 dmypy.json
 
-# Cython debug symbols
-cython_debug/
-
 #vscode
 .vscode/
 
