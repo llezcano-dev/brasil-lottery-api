@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3051,
+  "date": "1995-11-11",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "028977",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "016265",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "046128",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "025218",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "010517",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

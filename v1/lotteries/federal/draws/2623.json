@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2623,
+  "date": "1990-06-16",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "013916",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "059501",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "034141",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "038566",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "073395",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

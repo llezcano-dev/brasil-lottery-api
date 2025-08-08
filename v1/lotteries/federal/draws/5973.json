@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5973,
+  "date": "2025-06-11",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "058062",
+      "prizeAmount": 500000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "029669",
+      "prizeAmount": 35000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "054447",
+      "prizeAmount": 30000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "064563",
+      "prizeAmount": 25000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "036336",
+      "prizeAmount": 20363.0
+    }
+  ]
+}

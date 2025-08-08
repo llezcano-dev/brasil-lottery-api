@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1843,
+  "date": "1981-12-02",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "005575",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "059770",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "002867",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "055583",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "003149",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

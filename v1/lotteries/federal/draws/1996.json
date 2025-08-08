@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1996,
+  "date": "1983-07-23",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "077838",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "028495",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "058810",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "043090",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "076115",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4528,
+  "date": "2011-02-16",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "061873",
+      "prizeAmount": 250000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "030851",
+      "prizeAmount": 22000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "077678",
+      "prizeAmount": 12000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "036404",
+      "prizeAmount": 11000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "030317",
+      "prizeAmount": 10320.0
+    }
+  ]
+}

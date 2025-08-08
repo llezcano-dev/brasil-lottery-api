@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4402,
+  "date": "2009-11-28",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "050905",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "047031",
+      "prizeAmount": 10500.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "075184",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "059322",
+      "prizeAmount": 5130.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "065593",
+      "prizeAmount": 3500.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4307,
+  "date": "2008-12-31",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "020534",
+      "prizeAmount": 400000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "066178",
+      "prizeAmount": 12000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "072943",
+      "prizeAmount": 10000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "070272",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "015040",
+      "prizeAmount": 7000.0
+    }
+  ]
+}

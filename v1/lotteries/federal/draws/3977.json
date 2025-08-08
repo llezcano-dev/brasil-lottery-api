@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3977,
+  "date": "2005-10-19",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "035933",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "071257",
+      "prizeAmount": 12000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "070643",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "072271",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "048202",
+      "prizeAmount": 4000.0
+    }
+  ]
+}

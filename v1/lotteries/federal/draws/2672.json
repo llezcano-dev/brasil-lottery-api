@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2672,
+  "date": "1991-01-09",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "047406",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "001351",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "005289",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "013767",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "053799",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

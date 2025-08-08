@@ -1,0 +1,31 @@
+{
+  "drawNumber": 506,
+  "date": "1967-10-14",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "021507",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "036532",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "031994",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "043864",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "036331",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

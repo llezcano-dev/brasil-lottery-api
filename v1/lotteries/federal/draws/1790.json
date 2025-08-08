@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1790,
+  "date": "1981-05-20",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "049227",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "035401",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "033404",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "040446",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "032920",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

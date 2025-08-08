@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4508,
+  "date": "2010-12-08",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "013884",
+      "prizeAmount": 250000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "062410",
+      "prizeAmount": 22000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "049340",
+      "prizeAmount": 12000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "069053",
+      "prizeAmount": 11000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "077484",
+      "prizeAmount": 10320.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3014,
+  "date": "1995-06-07",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "024527",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "000064",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "052773",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "003233",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "050012",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

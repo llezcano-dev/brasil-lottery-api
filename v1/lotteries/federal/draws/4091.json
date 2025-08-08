@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4091,
+  "date": "2006-11-29",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "016828",
+      "prizeAmount": 100000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "054744",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "069913",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "064095",
+      "prizeAmount": 3000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "017486",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

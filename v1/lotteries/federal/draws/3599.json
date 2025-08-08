@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3599,
+  "date": "2001-12-05",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "067980",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "046732",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "057609",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "065248",
+      "prizeAmount": 3000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "054142",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

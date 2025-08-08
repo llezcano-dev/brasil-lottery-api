@@ -1,0 +1,31 @@
+{
+  "drawNumber": 901,
+  "date": "1971-10-16",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "018296",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "042979",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "009800",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "022278",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "041065",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 283,
+  "date": "1965-08-04",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "007639",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "011049",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "030500",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "039794",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "039383",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

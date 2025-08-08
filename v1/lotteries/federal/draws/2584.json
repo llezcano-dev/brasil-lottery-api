@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2584,
+  "date": "1989-12-13",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "082457",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "083907",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "020826",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "073948",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "069149",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

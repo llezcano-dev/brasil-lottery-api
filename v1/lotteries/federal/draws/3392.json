@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3392,
+  "date": "1999-09-01",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "063872",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "024605",
+      "prizeAmount": 10000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "007288",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "011558",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "040299",
+      "prizeAmount": 4000.0
+    }
+  ]
+}

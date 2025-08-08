@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5169,
+  "date": "2017-04-08",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "001302",
+      "prizeAmount": 1000000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "019918",
+      "prizeAmount": 20000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "081979",
+      "prizeAmount": 14000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "001814",
+      "prizeAmount": 12000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "055953",
+      "prizeAmount": 10040.0
+    }
+  ]
+}

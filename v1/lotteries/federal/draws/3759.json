@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3759,
+  "date": "2003-08-13",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "016986",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "036860",
+      "prizeAmount": 12000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "034561",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "003625",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "003730",
+      "prizeAmount": 4000.0
+    }
+  ]
+}

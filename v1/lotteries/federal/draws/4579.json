@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4579,
+  "date": "2011-08-13",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "010525",
+      "prizeAmount": 1000000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "051900",
+      "prizeAmount": 24000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "058927",
+      "prizeAmount": 14500.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "006053",
+      "prizeAmount": 14000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "068955",
+      "prizeAmount": 12240.0
+    }
+  ]
+}

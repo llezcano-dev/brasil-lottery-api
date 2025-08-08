@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5465,
+  "date": "2020-02-05",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "074444",
+      "prizeAmount": 500000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "006177",
+      "prizeAmount": 27000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "048923",
+      "prizeAmount": 24000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "068389",
+      "prizeAmount": 19000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "080566",
+      "prizeAmount": 18329.0
+    }
+  ]
+}

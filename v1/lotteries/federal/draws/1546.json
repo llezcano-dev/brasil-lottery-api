@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1546,
+  "date": "1978-09-20",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "055519",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "017683",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "011814",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "046905",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "000916",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

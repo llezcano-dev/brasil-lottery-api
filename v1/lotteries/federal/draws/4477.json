@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4477,
+  "date": "2010-08-21",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "013211",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "013730",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "044933",
+      "prizeAmount": 3000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "034302",
+      "prizeAmount": 2470.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "028659",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

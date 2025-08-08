@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2898,
+  "date": "1994-02-12",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "063879",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "032473",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "025094",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "059738",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "044998",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

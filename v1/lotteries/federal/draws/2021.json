@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2021,
+  "date": "1983-11-09",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "004260",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "055177",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "063044",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "013995",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "018203",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

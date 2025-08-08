@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5841,
+  "date": "2024-02-17",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "017178",
+      "prizeAmount": 500000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "006102",
+      "prizeAmount": 27000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "055733",
+      "prizeAmount": 24000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "043185",
+      "prizeAmount": 19000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "092259",
+      "prizeAmount": 18329.0
+    }
+  ]
+}

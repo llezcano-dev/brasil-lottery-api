@@ -1,0 +1,31 @@
+{
+  "drawNumber": 312,
+  "date": "1965-11-13",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "017760",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "034633",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "038532",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "026889",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "002053",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

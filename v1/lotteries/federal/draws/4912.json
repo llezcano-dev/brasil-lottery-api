@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4912,
+  "date": "2014-10-22",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "056456",
+      "prizeAmount": 250000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "013872",
+      "prizeAmount": 16300.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "090361",
+      "prizeAmount": 16000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "070860",
+      "prizeAmount": 15800.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "080840",
+      "prizeAmount": 15220.0
+    }
+  ]
+}

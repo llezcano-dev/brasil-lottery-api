@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4419,
+  "date": "2010-01-27",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "003500",
+      "prizeAmount": 250000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "034885",
+      "prizeAmount": 27000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "038447",
+      "prizeAmount": 14300.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "049770",
+      "prizeAmount": 12000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "014381",
+      "prizeAmount": 10060.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2166,
+  "date": "1985-06-12",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "055064",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "029214",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "069822",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "062041",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "011688",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

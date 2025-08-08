@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1923,
+  "date": "1982-10-16",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "028429",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "040581",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "076057",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "003458",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "033621",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

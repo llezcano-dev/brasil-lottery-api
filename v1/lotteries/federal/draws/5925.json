@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5925,
+  "date": "2024-12-07",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "028267",
+      "prizeAmount": 500000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "048769",
+      "prizeAmount": 27000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "022812",
+      "prizeAmount": 24000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "083392",
+      "prizeAmount": 19000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "078256",
+      "prizeAmount": 18329.0
+    }
+  ]
+}

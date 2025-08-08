@@ -1,0 +1,31 @@
+{
+  "drawNumber": 900,
+  "date": "1971-10-13",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "048759",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "025859",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "036705",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "029857",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "010750",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

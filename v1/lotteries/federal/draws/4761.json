@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4761,
+  "date": "2013-05-11",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "028973",
+      "prizeAmount": 1000000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "076816",
+      "prizeAmount": 22000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "057665",
+      "prizeAmount": 16300.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "010853",
+      "prizeAmount": 15800.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "004671",
+      "prizeAmount": 15680.0
+    }
+  ]
+}

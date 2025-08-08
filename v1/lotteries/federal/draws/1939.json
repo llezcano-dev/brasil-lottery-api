@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1939,
+  "date": "1982-12-18",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "058502",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "053150",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "020486",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "022692",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "064268",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

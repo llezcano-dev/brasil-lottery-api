@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2809,
+  "date": "1992-08-01",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "062820",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "037990",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "073304",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "052926",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "066840",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3546,
+  "date": "2001-05-12",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "053870",
+      "prizeAmount": 100000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "017136",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "060252",
+      "prizeAmount": 2500.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "001291",
+      "prizeAmount": 2000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "019968",
+      "prizeAmount": 1000.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5090,
+  "date": "2016-07-06",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "065298",
+      "prizeAmount": 350000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "029913",
+      "prizeAmount": 19000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "064430",
+      "prizeAmount": 16000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "021891",
+      "prizeAmount": 14000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "032570",
+      "prizeAmount": 12000.0
+    }
+  ]
+}

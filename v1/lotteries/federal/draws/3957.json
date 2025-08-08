@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3957,
+  "date": "2005-08-03",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "030806",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "062564",
+      "prizeAmount": 12000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "047631",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "011784",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "022159",
+      "prizeAmount": 4000.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5874,
+  "date": "2024-06-12",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "088460",
+      "prizeAmount": 500000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "038703",
+      "prizeAmount": 27000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "031742",
+      "prizeAmount": 24000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "027057",
+      "prizeAmount": 19000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "007328",
+      "prizeAmount": 18329.0
+    }
+  ]
+}

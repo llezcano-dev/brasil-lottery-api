@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2157,
+  "date": "1985-05-08",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "054491",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "000355",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "071356",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "011706",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "025813",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 990,
+  "date": "1972-11-18",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "002356",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "007195",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "038471",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "027135",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "021785",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

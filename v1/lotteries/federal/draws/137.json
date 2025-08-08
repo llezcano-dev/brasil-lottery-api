@@ -1,0 +1,31 @@
+{
+  "drawNumber": 137,
+  "date": "1964-02-15",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "038048",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "034587",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "000523",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "014218",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "004166",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

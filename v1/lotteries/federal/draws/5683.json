@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5683,
+  "date": "2022-07-23",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "023021",
+      "prizeAmount": 500000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "019376",
+      "prizeAmount": 27000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "063867",
+      "prizeAmount": 24000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "059537",
+      "prizeAmount": 19000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "076464",
+      "prizeAmount": 18329.0
+    }
+  ]
+}

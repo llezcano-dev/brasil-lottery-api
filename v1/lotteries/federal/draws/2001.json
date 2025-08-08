@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2001,
+  "date": "1983-08-13",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "024607",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "030666",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "036537",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "033726",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "076785",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

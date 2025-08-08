@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2342,
+  "date": "1987-05-03",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "069245",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "015961",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "054878",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "006914",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "039397",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

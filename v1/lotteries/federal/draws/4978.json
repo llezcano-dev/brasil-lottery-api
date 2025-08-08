@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4978,
+  "date": "2015-06-10",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "059932",
+      "prizeAmount": 300000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "013587",
+      "prizeAmount": 18600.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "076788",
+      "prizeAmount": 18300.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "035989",
+      "prizeAmount": 18000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "022245",
+      "prizeAmount": 17067.0
+    }
+  ]
+}

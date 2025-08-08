@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2464,
+  "date": "1988-08-13",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "073000",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "072293",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "030950",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "039976",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "007784",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

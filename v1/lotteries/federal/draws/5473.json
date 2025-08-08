@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5473,
+  "date": "2020-03-04",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "064222",
+      "prizeAmount": 500000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "031766",
+      "prizeAmount": 27000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "038882",
+      "prizeAmount": 24000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "076391",
+      "prizeAmount": 19000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "069938",
+      "prizeAmount": 18329.0
+    }
+  ]
+}

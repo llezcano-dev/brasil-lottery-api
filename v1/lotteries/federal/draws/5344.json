@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5344,
+  "date": "2018-12-12",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "075485",
+      "prizeAmount": 350000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "021051",
+      "prizeAmount": 18000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "029772",
+      "prizeAmount": 15000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "086080",
+      "prizeAmount": 12000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "024870",
+      "prizeAmount": 10023.0
+    }
+  ]
+}

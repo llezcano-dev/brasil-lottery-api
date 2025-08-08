@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4558,
+  "date": "2011-06-01",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "066709",
+      "prizeAmount": 250000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "020470",
+      "prizeAmount": 22000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "078692",
+      "prizeAmount": 12000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "077628",
+      "prizeAmount": 11000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "014147",
+      "prizeAmount": 10320.0
+    }
+  ]
+}

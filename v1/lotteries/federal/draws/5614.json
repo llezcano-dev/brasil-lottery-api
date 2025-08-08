@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5614,
+  "date": "2021-11-13",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "041990",
+      "prizeAmount": 1350000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "089203",
+      "prizeAmount": 15500.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "014541",
+      "prizeAmount": 14000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "007325",
+      "prizeAmount": 13000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "012753",
+      "prizeAmount": 12227.0
+    }
+  ]
+}

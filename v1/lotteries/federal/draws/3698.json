@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3698,
+  "date": "2003-01-04",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "037976",
+      "prizeAmount": 100000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "004014",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "046251",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "041941",
+      "prizeAmount": 3000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "055208",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

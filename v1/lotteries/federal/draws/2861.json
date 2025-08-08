@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2861,
+  "date": "1993-08-14",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "036741",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "035548",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "076527",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "034054",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "056830",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

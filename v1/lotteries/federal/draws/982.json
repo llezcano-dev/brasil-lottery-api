@@ -1,0 +1,31 @@
+{
+  "drawNumber": 982,
+  "date": "1972-10-11",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "028198",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "001954",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "009627",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "039836",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "014906",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

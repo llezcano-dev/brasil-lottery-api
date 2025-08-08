@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2199,
+  "date": "1985-10-09",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "055934",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "070752",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "035237",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "010650",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "057043",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

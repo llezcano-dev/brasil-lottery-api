@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5974,
+  "date": "2025-06-14",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "046458",
+      "prizeAmount": 1350000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "048926",
+      "prizeAmount": 40000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "019461",
+      "prizeAmount": 30000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "077515",
+      "prizeAmount": 20000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "078757",
+      "prizeAmount": 17339.0
+    }
+  ]
+}

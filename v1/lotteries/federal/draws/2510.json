@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2510,
+  "date": "1989-02-18",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "022624",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "056486",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "051893",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "003558",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "067019",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

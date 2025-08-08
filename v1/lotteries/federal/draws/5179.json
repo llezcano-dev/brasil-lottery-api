@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5179,
+  "date": "2017-05-13",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "048498",
+      "prizeAmount": 1350000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "086755",
+      "prizeAmount": 25000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "025496",
+      "prizeAmount": 21000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "049440",
+      "prizeAmount": 19000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "006355",
+      "prizeAmount": 18055.0
+    }
+  ]
+}

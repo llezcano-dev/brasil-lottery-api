@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5438,
+  "date": "2019-11-06",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "026998",
+      "prizeAmount": 500000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "067284",
+      "prizeAmount": 27000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "049127",
+      "prizeAmount": 24000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "039619",
+      "prizeAmount": 19000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "022337",
+      "prizeAmount": 18329.0
+    }
+  ]
+}

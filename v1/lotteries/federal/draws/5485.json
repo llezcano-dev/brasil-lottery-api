@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5485,
+  "date": "2020-08-22",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "095134",
+      "prizeAmount": 500000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "040515",
+      "prizeAmount": 27000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "062758",
+      "prizeAmount": 24000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "041632",
+      "prizeAmount": 19000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "020831",
+      "prizeAmount": 18329.0
+    }
+  ]
+}

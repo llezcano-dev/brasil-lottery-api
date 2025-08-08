@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5985,
+  "date": "2025-07-23",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "000478",
+      "prizeAmount": 500000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "033331",
+      "prizeAmount": 35000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "087748",
+      "prizeAmount": 30000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "047526",
+      "prizeAmount": 25000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "007899",
+      "prizeAmount": 20363.0
+    }
+  ]
+}

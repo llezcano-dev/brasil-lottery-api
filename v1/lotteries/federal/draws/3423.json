@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3423,
+  "date": "2000-01-12",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "015022",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "062626",
+      "prizeAmount": 10000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "064242",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "020565",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "053076",
+      "prizeAmount": 4000.0
+    }
+  ]
+}

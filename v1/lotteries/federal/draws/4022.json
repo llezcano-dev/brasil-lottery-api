@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4022,
+  "date": "2006-03-29",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "043999",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "018311",
+      "prizeAmount": 12000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "026492",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "068826",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "038725",
+      "prizeAmount": 4000.0
+    }
+  ]
+}

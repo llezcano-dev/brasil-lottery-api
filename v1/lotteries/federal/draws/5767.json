@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5767,
+  "date": "2023-05-24",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "094475",
+      "prizeAmount": 500000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "004528",
+      "prizeAmount": 27000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "030136",
+      "prizeAmount": 24000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "007287",
+      "prizeAmount": 19000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "057715",
+      "prizeAmount": 18329.0
+    }
+  ]
+}

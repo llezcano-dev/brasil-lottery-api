@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4510,
+  "date": "2010-12-15",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "034360",
+      "prizeAmount": 250000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "004070",
+      "prizeAmount": 22000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "003947",
+      "prizeAmount": 12000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "062755",
+      "prizeAmount": 11000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "010542",
+      "prizeAmount": 10320.0
+    }
+  ]
+}

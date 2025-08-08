@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5161,
+  "date": "2017-03-11",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "029017",
+      "prizeAmount": 1000000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "067892",
+      "prizeAmount": 20000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "048443",
+      "prizeAmount": 14000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "081692",
+      "prizeAmount": 12000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "025612",
+      "prizeAmount": 10040.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5051,
+  "date": "2016-02-20",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "017230",
+      "prizeAmount": 300000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "018083",
+      "prizeAmount": 17000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "030365",
+      "prizeAmount": 16000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "024379",
+      "prizeAmount": 15000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "083056",
+      "prizeAmount": 14200.0
+    }
+  ]
+}

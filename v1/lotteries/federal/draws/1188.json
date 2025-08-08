@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1188,
+  "date": "1974-12-11",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "014833",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "044827",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "049058",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "026520",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "027292",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

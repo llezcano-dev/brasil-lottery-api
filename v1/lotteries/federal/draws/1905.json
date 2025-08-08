@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1905,
+  "date": "1982-08-07",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "036980",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "057810",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "028362",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "068702",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "079797",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

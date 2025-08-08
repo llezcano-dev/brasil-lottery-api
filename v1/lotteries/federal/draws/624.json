@@ -1,0 +1,31 @@
+{
+  "drawNumber": 624,
+  "date": "1968-12-18",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "030579",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "005223",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "040382",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "043836",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "047877",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

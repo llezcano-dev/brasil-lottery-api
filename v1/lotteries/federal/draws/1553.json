@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1553,
+  "date": "1978-10-18",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "068465",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "006514",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "000184",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "050841",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "048287",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

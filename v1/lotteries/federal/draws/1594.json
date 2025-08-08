@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1594,
+  "date": "1979-03-28",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "027708",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "066189",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "063401",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "042049",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "069774",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

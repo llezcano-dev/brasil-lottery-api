@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2954,
+  "date": "1994-09-21",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "005240",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "003164",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "001741",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "009696",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "007946",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

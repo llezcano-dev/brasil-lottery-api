@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3942,
+  "date": "2005-06-11",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "035062",
+      "prizeAmount": 100000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "003188",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "049036",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "036840",
+      "prizeAmount": 3000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "069107",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

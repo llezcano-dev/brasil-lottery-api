@@ -1,0 +1,31 @@
+{
+  "drawNumber": 945,
+  "date": "1972-04-29",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "017796",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "041754",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "012994",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "010560",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "018479",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

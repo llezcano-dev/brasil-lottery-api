@@ -1,0 +1,31 @@
+{
+  "drawNumber": 149,
+  "date": "1964-04-06",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "014618",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "021298",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "032816",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "007806",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "028238",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

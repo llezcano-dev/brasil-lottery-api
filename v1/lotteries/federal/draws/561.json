@@ -1,0 +1,31 @@
+{
+  "drawNumber": 561,
+  "date": "1968-05-04",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "015640",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "033283",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "045825",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "046869",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "025957",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

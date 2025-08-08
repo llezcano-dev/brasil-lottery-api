@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3737,
+  "date": "2003-05-28",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "072200",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "007171",
+      "prizeAmount": 12000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "037735",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "004242",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "053329",
+      "prizeAmount": 4000.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2233,
+  "date": "1986-02-22",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "013668",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "030842",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "016448",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "041999",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "049600",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

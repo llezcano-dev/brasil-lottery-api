@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4485,
+  "date": "2010-09-18",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "033225",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "021751",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "002705",
+      "prizeAmount": 3000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "014148",
+      "prizeAmount": 2470.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "020433",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

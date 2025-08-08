@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4802,
+  "date": "2013-10-02",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "057659",
+      "prizeAmount": 250000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "056752",
+      "prizeAmount": 17100.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "063698",
+      "prizeAmount": 16600.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "074437",
+      "prizeAmount": 16100.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "039230",
+      "prizeAmount": 15200.0
+    }
+  ]
+}

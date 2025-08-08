@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2637,
+  "date": "1990-08-11",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "094941",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "066473",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "051853",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "053131",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "084212",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

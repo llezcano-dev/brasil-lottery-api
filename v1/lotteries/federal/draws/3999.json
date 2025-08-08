@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3999,
+  "date": "2006-01-07",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "050197",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "064248",
+      "prizeAmount": 12000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "037347",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "000778",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "054669",
+      "prizeAmount": 4000.0
+    }
+  ]
+}

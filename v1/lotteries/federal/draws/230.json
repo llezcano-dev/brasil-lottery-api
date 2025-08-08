@@ -1,0 +1,31 @@
+{
+  "drawNumber": 230,
+  "date": "1965-01-16",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "007542",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "018235",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "029734",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "015862",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "002910",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

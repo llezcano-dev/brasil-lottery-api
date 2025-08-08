@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3748,
+  "date": "2003-07-05",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "010563",
+      "prizeAmount": 100000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "000389",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "007126",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "036997",
+      "prizeAmount": 3000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "069239",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

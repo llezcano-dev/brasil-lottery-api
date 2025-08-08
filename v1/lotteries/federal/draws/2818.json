@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2818,
+  "date": "1992-10-03",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "078687",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "033951",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "012325",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "043134",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "025551",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

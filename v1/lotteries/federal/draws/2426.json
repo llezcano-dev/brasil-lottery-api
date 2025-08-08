@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2426,
+  "date": "1988-03-19",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "029249",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "092551",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "087154",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "007082",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "064987",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 854,
+  "date": "1971-04-24",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "036324",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "016980",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "035141",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "048949",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "035732",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5984,
+  "date": "2025-07-19",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "067482",
+      "prizeAmount": 1350000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "039426",
+      "prizeAmount": 40000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "053542",
+      "prizeAmount": 30000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "032519",
+      "prizeAmount": 20000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "028937",
+      "prizeAmount": 17339.0
+    }
+  ]
+}

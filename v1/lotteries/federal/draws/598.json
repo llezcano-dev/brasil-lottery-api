@@ -1,0 +1,31 @@
+{
+  "drawNumber": 598,
+  "date": "1968-09-14",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "015212",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "035318",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "004354",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "037568",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "043983",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

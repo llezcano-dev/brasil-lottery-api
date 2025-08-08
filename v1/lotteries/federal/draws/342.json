@@ -1,0 +1,31 @@
+{
+  "drawNumber": 342,
+  "date": "1966-03-09",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "013521",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "013351",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "029278",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "026949",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "007051",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

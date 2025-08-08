@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1948,
+  "date": "1983-01-26",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "067451",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "022060",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "060745",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "056184",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "013981",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

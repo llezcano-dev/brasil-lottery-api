@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3376,
+  "date": "1999-07-07",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "021033",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "028272",
+      "prizeAmount": 10000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "056326",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "039113",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "008907",
+      "prizeAmount": 4000.0
+    }
+  ]
+}

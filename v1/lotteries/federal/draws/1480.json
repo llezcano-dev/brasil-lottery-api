@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1480,
+  "date": "1978-01-11",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "033537",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "009552",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "013430",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "019700",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "006976",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

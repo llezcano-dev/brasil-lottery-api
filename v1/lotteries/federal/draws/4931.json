@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4931,
+  "date": "2014-12-27",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "055159",
+      "prizeAmount": 360000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "049396",
+      "prizeAmount": 50000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "012167",
+      "prizeAmount": 29000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "054911",
+      "prizeAmount": 17000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "064601",
+      "prizeAmount": 15038.0
+    }
+  ]
+}

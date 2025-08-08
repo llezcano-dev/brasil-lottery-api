@@ -1,0 +1,31 @@
+{
+  "drawNumber": 213,
+  "date": "1964-11-14",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "019204",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "019670",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "028480",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "023079",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "039297",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

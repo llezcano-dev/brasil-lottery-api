@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5821,
+  "date": "2023-11-29",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "064124",
+      "prizeAmount": 500000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "039479",
+      "prizeAmount": 27000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "049065",
+      "prizeAmount": 24000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "042395",
+      "prizeAmount": 19000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "047774",
+      "prizeAmount": 18329.0
+    }
+  ]
+}

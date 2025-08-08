@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5357,
+  "date": "2019-01-26",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "054015",
+      "prizeAmount": 350000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "045791",
+      "prizeAmount": 15000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "007696",
+      "prizeAmount": 13000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "012970",
+      "prizeAmount": 11300.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "046950",
+      "prizeAmount": 10379.0
+    }
+  ]
+}

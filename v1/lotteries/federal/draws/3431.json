@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3431,
+  "date": "2000-02-09",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "045430",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "035960",
+      "prizeAmount": 10000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "067966",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "021107",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "065379",
+      "prizeAmount": 4000.0
+    }
+  ]
+}

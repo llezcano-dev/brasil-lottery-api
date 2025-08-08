@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4584,
+  "date": "2011-08-31",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "032518",
+      "prizeAmount": 250000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "035290",
+      "prizeAmount": 22000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "024252",
+      "prizeAmount": 12000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "013942",
+      "prizeAmount": 11000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "016144",
+      "prizeAmount": 10320.0
+    }
+  ]
+}

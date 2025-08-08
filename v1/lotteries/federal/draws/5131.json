@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5131,
+  "date": "2016-11-26",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "011645",
+      "prizeAmount": 350000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "043456",
+      "prizeAmount": 19000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "086938",
+      "prizeAmount": 16000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "071594",
+      "prizeAmount": 14000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "002042",
+      "prizeAmount": 12024.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4335,
+  "date": "2009-04-08",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "029782",
+      "prizeAmount": 250000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "001265",
+      "prizeAmount": 25000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "076567",
+      "prizeAmount": 20000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "018995",
+      "prizeAmount": 12500.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "069333",
+      "prizeAmount": 10810.0
+    }
+  ]
+}

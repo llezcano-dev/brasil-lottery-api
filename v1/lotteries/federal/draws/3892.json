@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3892,
+  "date": "2004-12-11",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "033845",
+      "prizeAmount": 100000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "052634",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "039742",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "074753",
+      "prizeAmount": 3000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "065412",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

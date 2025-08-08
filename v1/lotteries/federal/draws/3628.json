@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3628,
+  "date": "2002-04-03",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "020669",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "001294",
+      "prizeAmount": 12000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "059343",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "054041",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "060073",
+      "prizeAmount": 4000.0
+    }
+  ]
+}

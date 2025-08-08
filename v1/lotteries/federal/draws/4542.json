@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4542,
+  "date": "2011-04-06",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "042007",
+      "prizeAmount": 250000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "045109",
+      "prizeAmount": 22000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "073295",
+      "prizeAmount": 12000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "003893",
+      "prizeAmount": 11000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "000529",
+      "prizeAmount": 10320.0
+    }
+  ]
+}

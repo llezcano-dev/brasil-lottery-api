@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4052,
+  "date": "2006-07-12",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "025413",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "070840",
+      "prizeAmount": 12000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "055757",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "061310",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "070526",
+      "prizeAmount": 4000.0
+    }
+  ]
+}

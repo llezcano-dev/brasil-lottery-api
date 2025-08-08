@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4279,
+  "date": "2008-09-20",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "049291",
+      "prizeAmount": 100000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "064139",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "013093",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "010529",
+      "prizeAmount": 3000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "002104",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

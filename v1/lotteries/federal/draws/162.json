@@ -1,0 +1,31 @@
+{
+  "drawNumber": 162,
+  "date": "1964-05-16",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "008400",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "011336",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "016429",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "004032",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "007675",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3526,
+  "date": "2001-02-17",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "038572",
+      "prizeAmount": 100000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "059048",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "015128",
+      "prizeAmount": 2500.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "021152",
+      "prizeAmount": 2000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "006759",
+      "prizeAmount": 1000.0
+    }
+  ]
+}

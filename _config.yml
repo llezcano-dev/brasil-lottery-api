@@ -1,0 +1,14 @@
+# GitHub Pages configuration
+plugins:
+  - jekyll-optional-front-matter
+
+# CORS headers for API files
+include:
+  - "v1/**/*.json"
+
+# Serve JSON files with correct MIME type
+defaults:
+  - scope:
+      path: "v1"
+    values:
+      layout: null

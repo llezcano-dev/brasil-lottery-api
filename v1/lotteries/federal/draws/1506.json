@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1506,
+  "date": "1978-04-26",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "032917",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "040296",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "051322",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "007315",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "009046",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5799,
+  "date": "2023-09-13",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "074362",
+      "prizeAmount": 500000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "046985",
+      "prizeAmount": 27000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "027784",
+      "prizeAmount": 24000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "061204",
+      "prizeAmount": 19000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "072233",
+      "prizeAmount": 18329.0
+    }
+  ]
+}

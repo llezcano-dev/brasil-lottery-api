@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4785,
+  "date": "2013-08-03",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "096076",
+      "prizeAmount": 250000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "032837",
+      "prizeAmount": 17100.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "002975",
+      "prizeAmount": 16800.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "039108",
+      "prizeAmount": 16400.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "044475",
+      "prizeAmount": 15970.0
+    }
+  ]
+}

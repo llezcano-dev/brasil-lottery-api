@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4199,
+  "date": "2007-12-15",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "047586",
+      "prizeAmount": 100000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "033089",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "073985",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "027847",
+      "prizeAmount": 3000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "014500",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

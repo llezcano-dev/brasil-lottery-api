@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5662,
+  "date": "2022-05-11",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "048274",
+      "prizeAmount": 500000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "044864",
+      "prizeAmount": 27000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "020706",
+      "prizeAmount": 24000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "069668",
+      "prizeAmount": 19000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "079933",
+      "prizeAmount": 18329.0
+    }
+  ]
+}

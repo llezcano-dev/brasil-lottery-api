@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5564,
+  "date": "2021-05-22",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "005644",
+      "prizeAmount": 500000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "056240",
+      "prizeAmount": 27000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "040297",
+      "prizeAmount": 24000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "006389",
+      "prizeAmount": 19000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "052824",
+      "prizeAmount": 18329.0
+    }
+  ]
+}

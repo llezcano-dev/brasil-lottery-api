@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4489,
+  "date": "2010-10-02",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "046340",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "052055",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "003702",
+      "prizeAmount": 3000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "052894",
+      "prizeAmount": 2470.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "041753",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

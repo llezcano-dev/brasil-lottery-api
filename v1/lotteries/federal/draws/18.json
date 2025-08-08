@@ -1,0 +1,31 @@
+{
+  "drawNumber": 18,
+  "date": "1962-11-24",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "017716",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "007891",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "026139",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "007792",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "025301",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

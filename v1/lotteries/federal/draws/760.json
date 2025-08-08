@@ -1,0 +1,31 @@
+{
+  "drawNumber": 760,
+  "date": "1970-05-09",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "052984",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "012598",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "047782",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "020940",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "037682",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

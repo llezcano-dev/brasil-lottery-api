@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2056,
+  "date": "1984-03-21",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "039152",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "062237",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "048862",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "024449",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "045222",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

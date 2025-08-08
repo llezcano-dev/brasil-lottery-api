@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4595,
+  "date": "2011-10-08",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "063118",
+      "prizeAmount": 1000000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "049573",
+      "prizeAmount": 24000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "001257",
+      "prizeAmount": 14500.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "016677",
+      "prizeAmount": 14000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "008098",
+      "prizeAmount": 12240.0
+    }
+  ]
+}

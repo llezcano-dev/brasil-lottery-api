@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4538,
+  "date": "2011-03-23",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "057602",
+      "prizeAmount": 250000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "017214",
+      "prizeAmount": 22000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "042518",
+      "prizeAmount": 12000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "063684",
+      "prizeAmount": 11000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "059520",
+      "prizeAmount": 10320.0
+    }
+  ]
+}

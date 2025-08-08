@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5321,
+  "date": "2018-09-22",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "050412",
+      "prizeAmount": 350000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "045885",
+      "prizeAmount": 14000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "071047",
+      "prizeAmount": 13000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "058394",
+      "prizeAmount": 11000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "056589",
+      "prizeAmount": 10020.0
+    }
+  ]
+}

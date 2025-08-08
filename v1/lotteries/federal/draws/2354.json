@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2354,
+  "date": "1987-06-13",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "053505",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "079937",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "069709",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "053336",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "012861",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

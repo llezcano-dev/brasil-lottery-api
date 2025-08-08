@@ -1,0 +1,31 @@
+{
+  "drawNumber": 390,
+  "date": "1966-08-24",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "004872",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "001120",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "022051",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "036503",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "001057",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

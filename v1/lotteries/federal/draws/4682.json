@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4682,
+  "date": "2012-08-08",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "047967",
+      "prizeAmount": 250000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "054771",
+      "prizeAmount": 25000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "079823",
+      "prizeAmount": 15500.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "078161",
+      "prizeAmount": 14000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "057127",
+      "prizeAmount": 12058.0
+    }
+  ]
+}

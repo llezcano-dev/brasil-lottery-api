@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2284,
+  "date": "1986-09-10",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "029003",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "001486",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "039392",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "033933",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "059521",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1801,
+  "date": "1981-06-27",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "056141",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "060978",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "025924",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "007001",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "031256",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5695,
+  "date": "2022-09-03",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "081271",
+      "prizeAmount": 500000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "000463",
+      "prizeAmount": 27000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "026450",
+      "prizeAmount": 24000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "077426",
+      "prizeAmount": 19000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "068928",
+      "prizeAmount": 18329.0
+    }
+  ]
+}

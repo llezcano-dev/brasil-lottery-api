@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4734,
+  "date": "2013-02-06",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "051164",
+      "prizeAmount": 250000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "045165",
+      "prizeAmount": 17100.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "046391",
+      "prizeAmount": 16600.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "025551",
+      "prizeAmount": 16100.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "068100",
+      "prizeAmount": 15200.0
+    }
+  ]
+}

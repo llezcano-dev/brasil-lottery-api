@@ -1,0 +1,31 @@
+{
+  "drawNumber": 661,
+  "date": "1969-05-10",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "026355",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "023050",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "027516",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "030970",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "008745",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

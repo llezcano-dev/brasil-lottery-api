@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3910,
+  "date": "2005-02-19",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "071612",
+      "prizeAmount": 100000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "044716",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "024462",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "054140",
+      "prizeAmount": 3000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "073393",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

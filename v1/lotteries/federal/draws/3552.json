@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3552,
+  "date": "2001-06-02",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "006220",
+      "prizeAmount": 100000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "004414",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "032212",
+      "prizeAmount": 3000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "044912",
+      "prizeAmount": 2000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "032011",
+      "prizeAmount": 1000.0
+    }
+  ]
+}

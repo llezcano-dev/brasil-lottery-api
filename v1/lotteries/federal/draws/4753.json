@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4753,
+  "date": "2013-04-13",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "016260",
+      "prizeAmount": 1000000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "023908",
+      "prizeAmount": 22000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "033356",
+      "prizeAmount": 16300.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "017142",
+      "prizeAmount": 15800.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "043442",
+      "prizeAmount": 15680.0
+    }
+  ]
+}

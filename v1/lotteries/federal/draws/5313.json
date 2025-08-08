@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5313,
+  "date": "2018-08-25",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "003018",
+      "prizeAmount": 350000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "064419",
+      "prizeAmount": 14000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "031506",
+      "prizeAmount": 13000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "057000",
+      "prizeAmount": 11000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "030887",
+      "prizeAmount": 10020.0
+    }
+  ]
+}

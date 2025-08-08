@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2024,
+  "date": "1983-11-23",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "060539",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "012201",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "065925",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "073779",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "061573",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

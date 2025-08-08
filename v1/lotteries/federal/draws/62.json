@@ -1,0 +1,31 @@
+{
+  "drawNumber": 62,
+  "date": "1963-05-11",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "019907",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "025827",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "010304",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "029497",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "022330",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

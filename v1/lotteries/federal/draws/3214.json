@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3214,
+  "date": "1997-09-27",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "064620",
+      "prizeAmount": 100000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "036368",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "012733",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "050533",
+      "prizeAmount": 2000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "001877",
+      "prizeAmount": 1500.0
+    }
+  ]
+}

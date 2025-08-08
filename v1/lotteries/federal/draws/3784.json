@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3784,
+  "date": "2003-11-08",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "068774",
+      "prizeAmount": 100000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "063597",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "014648",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "014503",
+      "prizeAmount": 3000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "015527",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

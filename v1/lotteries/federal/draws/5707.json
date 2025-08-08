@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5707,
+  "date": "2022-10-15",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "078386",
+      "prizeAmount": 500000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "081267",
+      "prizeAmount": 27000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "017723",
+      "prizeAmount": 24000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "073695",
+      "prizeAmount": 19000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "025590",
+      "prizeAmount": 18329.0
+    }
+  ]
+}

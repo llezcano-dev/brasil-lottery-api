@@ -1,0 +1,31 @@
+{
+  "drawNumber": 842,
+  "date": "1971-03-06",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "046623",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "003152",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "053848",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "006417",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "041271",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

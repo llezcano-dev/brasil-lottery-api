@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5382,
+  "date": "2019-04-24",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "038146",
+      "prizeAmount": 500000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "059392",
+      "prizeAmount": 27000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "011566",
+      "prizeAmount": 24000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "041959",
+      "prizeAmount": 19000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "059312",
+      "prizeAmount": 18171.0
+    }
+  ]
+}

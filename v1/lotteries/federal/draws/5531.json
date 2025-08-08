@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5531,
+  "date": "2021-01-20",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "002317",
+      "prizeAmount": 500000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "002531",
+      "prizeAmount": 27000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "011870",
+      "prizeAmount": 24000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "003024",
+      "prizeAmount": 19000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "064798",
+      "prizeAmount": 18329.0
+    }
+  ]
+}

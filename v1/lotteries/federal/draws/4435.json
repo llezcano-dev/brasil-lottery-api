@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4435,
+  "date": "2010-03-24",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "035308",
+      "prizeAmount": 250000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "047020",
+      "prizeAmount": 27000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "036037",
+      "prizeAmount": 14300.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "002869",
+      "prizeAmount": 12000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "068252",
+      "prizeAmount": 10060.0
+    }
+  ]
+}

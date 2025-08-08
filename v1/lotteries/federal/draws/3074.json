@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3074,
+  "date": "1996-02-17",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "015409",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "035563",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "009876",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "022847",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "039654",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2524,
+  "date": "1989-04-12",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "065381",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "041681",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "066197",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "010372",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "051515",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

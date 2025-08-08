@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4867,
+  "date": "2014-05-17",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "077209",
+      "prizeAmount": 1000000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "062259",
+      "prizeAmount": 22000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "065168",
+      "prizeAmount": 17100.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "015397",
+      "prizeAmount": 16200.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "011453",
+      "prizeAmount": 15890.0
+    }
+  ]
+}

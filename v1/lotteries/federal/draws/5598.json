@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5598,
+  "date": "2021-09-18",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "020684",
+      "prizeAmount": 500000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "038300",
+      "prizeAmount": 27000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "015136",
+      "prizeAmount": 24000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "035151",
+      "prizeAmount": 19000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "045196",
+      "prizeAmount": 18329.0
+    }
+  ]
+}

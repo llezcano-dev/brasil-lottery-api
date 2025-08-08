@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5606,
+  "date": "2021-10-16",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "079603",
+      "prizeAmount": 1350000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "001954",
+      "prizeAmount": 15500.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "072366",
+      "prizeAmount": 14000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "064047",
+      "prizeAmount": 13000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "019710",
+      "prizeAmount": 12227.0
+    }
+  ]
+}

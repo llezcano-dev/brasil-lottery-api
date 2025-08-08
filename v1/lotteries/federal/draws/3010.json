@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3010,
+  "date": "1995-05-24",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "058378",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "032852",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "067856",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "033168",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "039707",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

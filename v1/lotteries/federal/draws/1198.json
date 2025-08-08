@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1198,
+  "date": "1975-01-22",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "012427",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "024676",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "000213",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "001078",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "024752",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

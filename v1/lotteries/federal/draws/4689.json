@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4689,
+  "date": "2012-09-01",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "061380",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "054966",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "015143",
+      "prizeAmount": 3000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "042678",
+      "prizeAmount": 2466.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "038621",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

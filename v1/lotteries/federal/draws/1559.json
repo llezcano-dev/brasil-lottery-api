@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1559,
+  "date": "1978-11-08",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "064100",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "034279",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "058877",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "055235",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "050479",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

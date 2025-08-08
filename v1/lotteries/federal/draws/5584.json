@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5584,
+  "date": "2021-07-31",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "083611",
+      "prizeAmount": 500000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "013566",
+      "prizeAmount": 27000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "005293",
+      "prizeAmount": 24000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "043792",
+      "prizeAmount": 19000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "053873",
+      "prizeAmount": 18329.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5405,
+  "date": "2019-07-13",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "068865",
+      "prizeAmount": 1350000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "018128",
+      "prizeAmount": 15500.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "067990",
+      "prizeAmount": 14000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "076409",
+      "prizeAmount": 13000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "044456",
+      "prizeAmount": 12227.0
+    }
+  ]
+}

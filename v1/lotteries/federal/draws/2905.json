@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2905,
+  "date": "1994-03-12",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "051125",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "066288",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "029423",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "006626",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "063108",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

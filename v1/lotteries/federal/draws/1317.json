@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1317,
+  "date": "1976-04-24",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "028406",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "060151",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "007514",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "069825",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "034274",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

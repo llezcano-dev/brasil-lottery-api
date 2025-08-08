@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2566,
+  "date": "1989-09-27",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "081246",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "074461",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "003460",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "024071",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "026346",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

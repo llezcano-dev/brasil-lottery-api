@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3788,
+  "date": "2003-11-26",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "044898",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "000907",
+      "prizeAmount": 12000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "049216",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "029583",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "009716",
+      "prizeAmount": 4000.0
+    }
+  ]
+}

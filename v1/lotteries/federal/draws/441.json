@@ -1,0 +1,31 @@
+{
+  "drawNumber": 441,
+  "date": "1967-03-01",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "021115",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "038172",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "006055",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "011793",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "025132",
+      "prizeAmount": 2000.0
+    }
+  ]
+}
