@@ -1,7 +1,6 @@
 import requests
 import sys
 import os
-from typing import Optional
 
 def download_lottery_excel(api_slug: str, lottery: str, output_dir: str = ".") -> bool:
     """

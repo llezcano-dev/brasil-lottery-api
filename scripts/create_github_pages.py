@@ -1,7 +1,5 @@
-import json
 import os
 import shutil
-import glob
 from datetime import datetime
 
 def create_github_pages():
@@ -26,29 +24,6 @@ def create_github_pages():
     print(f"GitHub Pages structure created in {docs_dir}/")
 
 def create_main_index(docs_dir):
-    """Create main index.html page."""
-    
-    # Get available APIs
-    api_types = []
-    api_dir = os.path.join(docs_dir, "v1/lotteries")
-    
-    if os.path.exists(api_dir):
-        for item in os.listdir(api_dir):
-            item_path = os.path.join(api_dir, item)
-            if os.path.isdir(item_path):
-                index_file = os.path.join(item_path, "index.json")
-                if os.path.exists(index_file):
-                    try:
-                        with open(index_file, 'r', encoding='utf-8') as f:
-                            data = json.load(f)
-                            api_types.append({
-                                "type": item,
-                                "count": data.get("count", 0),
-                                "latest": data.get("latest_draw", {})
-                            })
-                    except:
-                        pass
-    
     html_content = f"""<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -166,15 +141,15 @@ def create_main_index(docs_dir):
         <h3>Example URLs:</h3>
         <div class="endpoint">
             <span class="method">GET</span>
-            <span class="url"><a href="v1/lotteries/federal/draws/1.json">api/federal/draws/1.json</a></span>
+            <span class="url"><a href="v1/lotteries/federal/draws/1.json">v1/lotteries/federal/draws/1.json</a></span>
         </div>
         <div class="endpoint">
             <span class="method">GET</span>
-            <span class="url"><a href="v1/lotteries/federal/draws/latest.json">api/federal/draws/latest.json</a></span>
+            <span class="url"><a href="v1/lotteries/federal/draws/latest.json">v1/lotteries/federal/draws/latest.json</a></span>
         </div>
         <div class="endpoint">
             <span class="method">GET</span>
-            <span class="url"><a href="v1/lotteries/federal/index.json">api/federal/index.json</a></span>
+            <span class="url"><a href="v1/lotteries/federal/index.json">v1/lotteries/federal/index.json</a></span>
         </div>
     </div>
     
