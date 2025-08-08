@@ -30,7 +30,7 @@ def create_main_index(docs_dir):
     
     # Get available APIs
     api_types = []
-    api_dir = os.path.join(docs_dir, "v1")
+    api_dir = os.path.join(docs_dir, "v1/lotteries")
     
     if os.path.exists(api_dir):
         for item in os.listdir(api_dir):
@@ -42,8 +42,8 @@ def create_main_index(docs_dir):
                         with open(index_file, 'r', encoding='utf-8') as f:
                             data = json.load(f)
                             api_types.append({
-                                "name": item,
-                                "total_draws": data.get("total_draws", 0),
+                                "type": item,
+                                "count": data.get("count", 0),
                                 "latest": data.get("latest_draw", {})
                             })
                     except:
@@ -82,33 +82,6 @@ def create_main_index(docs_dir):
             margin: 10px 0 0 0;
             opacity: 0.9;
             font-size: 1.1em;
-        }}
-        .api-grid {{
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
-            gap: 20px;
-            margin-bottom: 40px;
-        }}
-        .api-card {{
-            background: white;
-            padding: 25px;
-            border-radius: 10px;
-            box-shadow: 0 5px 15px rgba(0,0,0,0.08);
-            border-left: 4px solid #667eea;
-        }}
-        .api-card h3 {{
-            margin: 0 0 15px 0;
-            color: #667eea;
-            text-transform: capitalize;
-            font-size: 1.4em;
-        }}
-        .api-info {{
-            display: flex;
-            justify-content: space-between;
-            margin-bottom: 15px;
-            padding: 10px;
-            background: #f8f9fa;
-            border-radius: 5px;
         }}
         .endpoints {{
             background: white;
@@ -168,23 +141,6 @@ def create_main_index(docs_dir):
         <p>Static API for Brazilian lottery results - Updated automatically</p>
     </div>
     
-    <div class="api-grid">
-        {"".join(f'''
-        <div class="api-card">
-            <h3>{api["name"]}</h3>
-            <div class="api-info">
-                <span><strong>Total draws:</strong> {api["total_draws"]}</span>
-                <span><strong>Latest:</strong> #{api["latest"].get("drawNumber", "N/A")}</span>
-            </div>
-            <p><strong>Latest Date:</strong> {api["latest"].get("date", "N/A")}</p>
-            <p>
-                <a href="v1/lotteries/{api["name"]}/index.json" target="_blank">📋 View Index</a> |
-                <a href="v1/lotteries/{api["name"]}/draws/latest.json" target="_blank">🆕 Latest Result</a>
-            </p>
-        </div>
-        ''' for api in api_types)}
-    </div>
-    
     <div class="endpoints">
         <h2>🔗 API Endpoints</h2>
         <p>All endpoints return JSON data. CORS is enabled for browser requests.</p>
@@ -210,15 +166,15 @@ def create_main_index(docs_dir):
         <h3>Example URLs:</h3>
         <div class="endpoint">
             <span class="method">GET</span>
-            <span class="url"><a href="api/federal/draws/1.json">api/federal/draws/1.json</a></span>
+            <span class="url"><a href="v1/lotteries/federal/draws/1.json">api/federal/draws/1.json</a></span>
         </div>
         <div class="endpoint">
             <span class="method">GET</span>
-            <span class="url"><a href="api/federal/draws/latest.json">api/federal/draws/latest.json</a></span>
+            <span class="url"><a href="v1/lotteries/federal/draws/latest.json">api/federal/draws/latest.json</a></span>
         </div>
         <div class="endpoint">
             <span class="method">GET</span>
-            <span class="url"><a href="api/federal/index.json">api/federal/index.json</a></span>
+            <span class="url"><a href="v1/lotteries/federal/index.json">api/federal/index.json</a></span>
         </div>
     </div>
     
