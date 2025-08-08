@@ -5,8 +5,8 @@ permissions:
 
 on:
   schedule:
-    # Run daily at 2 AM UTC (adjust timezone as needed)
-    - cron: '0 2 * * *'
+    # Run At 22:15 on Wednesday and Saturday. (Brasilia is UTC-3)
+    - cron: '15 22 * * 3,6'
   workflow_dispatch: # Allow manual trigger
   push:
     branches: [ main ]
