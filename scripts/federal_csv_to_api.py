@@ -21,13 +21,8 @@ def parse_monetary_value(value: str) -> float:
     except ValueError:
         return 0.0
 
-def parse_to_int(value: str) -> int:
-    if not value:
-        return 0
-    try:
-        return int(value)
-    except ValueError:
-        return 0
+def parse_str_to_int(value: str) -> int:
+    return int(value) if value.isdigit() else 0
 
 def parse_date_to_iso(date_str: str) -> str:
     """Convert date from DD/MM/YYYY to ISO format YYYY-MM-DD."""
@@ -128,7 +123,7 @@ def process_row(row_num: int, row: dict, draw_folder: str):
             return
 
         api_response = {
-            "drawNumber": parse_to_int(extracao_num),
+            "drawNumber": parse_str_to_int(extracao_num),
             "date": parse_date_to_iso(data_sorteio),
             "results": extract_prizes(row)
         }
@@ -214,7 +209,7 @@ def create_index_file(draw_folder: str, csv_folder: str, csv_filename: str):
                 print(f"Error reading {filename}: {e}")
     
     # Sort by draw number
-    draws.sort(key=lambda x: int(x["drawNumber"]) if x["drawNumber"].isdigit() else 0)
+    draws.sort(key=lambda x: x["drawNumber"])
     
     index_data = {
         "type": csv_filename,
