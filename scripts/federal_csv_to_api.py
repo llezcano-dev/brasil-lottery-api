@@ -21,6 +21,14 @@ def parse_monetary_value(value: str) -> float:
     except ValueError:
         return 0.0
 
+def parse_to_int(value: str) -> int:
+    if not value:
+        return 0
+    try:
+        return int(value)
+    except ValueError:
+        return 0
+
 def parse_date_to_iso(date_str: str) -> str:
     """Convert date from DD/MM/YYYY to ISO format YYYY-MM-DD."""
     if not date_str:
@@ -120,7 +128,7 @@ def process_row(row_num: int, row: dict, draw_folder: str):
             return
 
         api_response = {
-            "drawNumber": extracao_num,
+            "drawNumber": parse_to_int(extracao_num),
             "date": parse_date_to_iso(data_sorteio),
             "results": extract_prizes(row)
         }
