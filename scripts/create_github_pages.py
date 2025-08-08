@@ -14,8 +14,8 @@ def create_github_pages():
     os.makedirs(docs_dir)
     
     # Copy API files to docs
-    if os.path.exists("api"):
-        shutil.copytree("api", os.path.join(docs_dir, "api"))
+    if os.path.exists("v1"):
+        shutil.copytree("v1", os.path.join(docs_dir, "v1"))
     
     # Create main index.html
     create_main_index(docs_dir)
@@ -30,7 +30,7 @@ def create_main_index(docs_dir):
     
     # Get available APIs
     api_types = []
-    api_dir = os.path.join(docs_dir, "api")
+    api_dir = os.path.join(docs_dir, "v1")
     
     if os.path.exists(api_dir):
         for item in os.listdir(api_dir):
@@ -178,8 +178,8 @@ def create_main_index(docs_dir):
             </div>
             <p><strong>Latest Date:</strong> {api["latest"].get("date", "N/A")}</p>
             <p>
-                <a href="api/{api["name"]}/index.json" target="_blank">📋 View Index</a> |
-                <a href="api/{api["name"]}/draws/latest.json" target="_blank">🆕 Latest Result</a>
+                <a href="v1/lotteries/{api["name"]}/index.json" target="_blank">📋 View Index</a> |
+                <a href="v1/lotteries/{api["name"]}/draws/latest.json" target="_blank">🆕 Latest Result</a>
             </p>
         </div>
         ''' for api in api_types)}
@@ -245,12 +245,12 @@ plugins:
 
 # CORS headers for API files
 include:
-  - "api/**/*.json"
+  - "v1/**/*.json"
 
 # Serve JSON files with correct MIME type
 defaults:
   - scope:
-      path: "api"
+      path: "v1"
     values:
       layout: null
 """
