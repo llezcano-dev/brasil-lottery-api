@@ -181,45 +181,10 @@ def create_api_structure(csv_file_path: str, api_folder: str = "v1/lotteries"):
         shutil.copyfile(last_file_path, latest_path)
         print(f"Copied latest draw JSON to: {latest_path}")
 
-    # Create index file listing all draws
-    create_index_file(draw_folder, csv_folder, csv_filename)
-
     print(f"\nAPI generation complete! Files created in '{csv_folder}' folder.")
     print(f"Access individual draws: {csv_folder}/draws/{{number}}.json")
     print(f"Access latest draw: {csv_folder}/draws/latest.json")
     print(f"Access index: {csv_folder}/index.json")
-
-
-def create_index_file(draw_folder: str, csv_folder: str, csv_filename: str):
-    """Create an index file with all available draws."""
-    draws = []
-    
-    for filename in os.listdir(draw_folder):
-        if filename.endswith('.json'):
-            filepath = os.path.join(draw_folder, filename)
-            try:
-                with open(filepath, 'r', encoding='utf-8') as f:
-                    data = json.load(f)
-                    draws.append({
-                        "drawNumber": data["drawNumber"],
-                        "date": data["date"],
-                        "endpoint": f"/v1/lotteries/{csv_filename}/draws/{data['drawNumber']}"
-                    })
-            except Exception as e:
-                print(f"Error reading {filename}: {e}")
-    
-    # Sort by draw number
-    draws.sort(key=lambda x: x["drawNumber"])
-    
-    index_data = {
-        "type": csv_filename,
-        "count": len(draws),
-        "draws": draws
-    }
-    
-    index_path = os.path.join(csv_folder, "index.json")
-    with open(index_path, 'w', encoding='utf-8') as f:
-        json.dump(index_data, f, ensure_ascii=False, indent=2)
 
 def main():
     """Main function to run the script."""

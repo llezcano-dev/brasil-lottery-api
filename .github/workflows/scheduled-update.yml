@@ -1,0 +1,72 @@
+name: Scheduled Update - Latest Results
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    # Run at 22:15 on Wednesday and Saturday (Brasilia is UTC-3)
+    - cron: '15 22 * * 3,6'
+  workflow_dispatch: # Allow manual trigger for testing
+
+jobs:
+  update-latest:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        # Fetch the gh-pages branch content
+        ref: gh-pages
+        
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+        
+    - name: Checkout main branch scripts
+      run: |
+        # Get the scripts from main branch
+        git fetch origin main
+        git checkout origin/main -- scripts/federal_update_latest.py
+        git checkout origin/main -- scripts/create_github_pages.py
+        
+    - name: Update latest federal result
+      run: |
+        python scripts/federal_update_latest.py ./v1
+        
+    - name: Update GitHub Pages
+      run: |
+        python scripts/create_github_pages.py
+        
+    - name: Check for changes
+      id: check_changes
+      run: |
+        git add .
+        if git diff --staged --quiet; then
+          echo "changes=false" >> $GITHUB_OUTPUT
+          echo "No changes detected"
+        else
+          echo "changes=true" >> $GITHUB_OUTPUT
+          echo "Changes detected"
+        fi
+        
+    - name: Commit and push changes
+      if: steps.check_changes.outputs.changes == 'true'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git commit -m "Update latest federal lottery result - $(date '+%Y-%m-%d %H:%M:%S')"
+        git push
+        
+    - name: No updates needed
+      if: steps.check_changes.outputs.changes == 'false'
+      run: |
+        echo "ℹ️ No new lottery results to update"

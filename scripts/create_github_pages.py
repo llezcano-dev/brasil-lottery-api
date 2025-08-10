@@ -122,12 +122,6 @@ def create_main_index(docs_dir):
         
         <div class="endpoint">
             <span class="method">GET</span>
-            <span class="url">/v1/lotteries/{{lottery}}/index.json</span>
-        </div>
-        <p>Returns index with all available draws for a lottery type.</p>
-        
-        <div class="endpoint">
-            <span class="method">GET</span>
             <span class="url">/v1/lotteries/{{lottery}}/draws/{{number}}.json</span>
         </div>
         <p>Returns specific draw results by number.</p>
@@ -146,10 +140,6 @@ def create_main_index(docs_dir):
         <div class="endpoint">
             <span class="method">GET</span>
             <span class="url"><a href="v1/lotteries/federal/draws/latest.json">v1/lotteries/federal/draws/latest.json</a></span>
-        </div>
-        <div class="endpoint">
-            <span class="method">GET</span>
-            <span class="url"><a href="v1/lotteries/federal/index.json">v1/lotteries/federal/index.json</a></span>
         </div>
     </div>
     
