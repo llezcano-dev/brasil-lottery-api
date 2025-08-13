@@ -7,9 +7,13 @@
 - ✅ **Automated daily updates** via GitHub Actions
 - ✅ **Static API** served via GitHub Pages
 - ✅ **Latest endpoint** for most recent results
-- ✅ **Multiple lottery types** support
+- ✅ **Multiple lottery types** support (comming soon)
 - ✅ **Clean JSON structure** with ISO dates and numeric values
 - ✅ **CORS enabled** for browser requests
+
+## Try it
+
+https://llezcano-dev.github.io/brasil-lottery-api/
 
 ## API Endpoints
 
