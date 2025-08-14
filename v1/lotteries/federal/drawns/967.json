@@ -1,0 +1,31 @@
+{
+  "drawNumber": 967,
+  "date": "1972-08-02",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "038737",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "022082",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "004398",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "002153",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "029185",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

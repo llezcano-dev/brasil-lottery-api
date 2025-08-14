@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4585,
+  "date": "2011-09-03",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "006719",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "007112",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "070548",
+      "prizeAmount": 3000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "030659",
+      "prizeAmount": 2470.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "075601",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

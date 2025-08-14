@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5193,
+  "date": "2017-07-01",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "077746",
+      "prizeAmount": 350000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "039805",
+      "prizeAmount": 18000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "050284",
+      "prizeAmount": 15000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "069786",
+      "prizeAmount": 12350.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "067410",
+      "prizeAmount": 10073.0
+    }
+  ]
+}

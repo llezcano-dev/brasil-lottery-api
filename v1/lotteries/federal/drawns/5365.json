@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5365,
+  "date": "2019-02-23",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "000677",
+      "prizeAmount": 350000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "004343",
+      "prizeAmount": 15000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "000014",
+      "prizeAmount": 13000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "008103",
+      "prizeAmount": 11300.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "014707",
+      "prizeAmount": 10379.0
+    }
+  ]
+}

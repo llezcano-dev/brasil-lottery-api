@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3166,
+  "date": "1997-03-19",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "008958",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "042654",
+      "prizeAmount": 15000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "028023",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "048318",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "015859",
+      "prizeAmount": 3000.0
+    }
+  ]
+}

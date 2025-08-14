@@ -1,0 +1,31 @@
+{
+  "drawNumber": 144,
+  "date": "1964-03-11",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "032405",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "030853",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "028650",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "021194",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "032022",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

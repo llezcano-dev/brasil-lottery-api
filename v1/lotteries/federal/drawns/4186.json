@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4186,
+  "date": "2007-10-31",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "051719",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "005576",
+      "prizeAmount": 12000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "048205",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "036735",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "046840",
+      "prizeAmount": 4000.0
+    }
+  ]
+}

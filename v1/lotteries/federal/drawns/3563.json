@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3563,
+  "date": "2001-07-18",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "038351",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "036761",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "042941",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "032280",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "021625",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

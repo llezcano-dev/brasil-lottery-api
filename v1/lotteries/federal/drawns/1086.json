@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1086,
+  "date": "1973-11-24",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "035885",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "018619",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "028059",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "012887",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "026268",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5570,
+  "date": "2021-06-12",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "003655",
+      "prizeAmount": 500000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "050592",
+      "prizeAmount": 27000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "069661",
+      "prizeAmount": 24000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "042563",
+      "prizeAmount": 19000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "001023",
+      "prizeAmount": 18329.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1472,
+  "date": "1977-12-10",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "001001",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "032619",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "023980",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "057639",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "034463",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

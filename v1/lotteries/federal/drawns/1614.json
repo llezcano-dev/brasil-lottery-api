@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1614,
+  "date": "1979-06-20",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "015495",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "054587",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "050175",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "068082",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "030981",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

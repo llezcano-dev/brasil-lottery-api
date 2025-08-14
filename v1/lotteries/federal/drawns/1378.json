@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1378,
+  "date": "1976-12-08",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "014539",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "004152",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "032827",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "059225",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "054130",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

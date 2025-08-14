@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Brazilian Lottery API</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background: #f5f7fa;
+            color: #333;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 40px;
+            padding: 40px 0;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border-radius: 10px;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+        }
+        .header h1 {
+            margin: 0;
+            font-size: 2.5em;
+            font-weight: 300;
+        }
+        .header p {
+            margin: 10px 0 0 0;
+            opacity: 0.9;
+            font-size: 1.1em;
+        }
+        .endpoints {
+            background: white;
+            padding: 25px;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+            margin-bottom: 20px;
+        }
+        .endpoint {
+            display: flex;
+            align-items: center;
+            margin: 10px 0;
+            padding: 10px;
+            background: #f8f9fa;
+            border-radius: 5px;
+            font-family: 'Monaco', 'Menlo', monospace;
+        }
+        .method {
+            background: #28a745;
+            color: white;
+            padding: 4px 8px;
+            border-radius: 3px;
+            margin-right: 10px;
+            font-weight: bold;
+            font-size: 0.8em;
+        }
+        .url {
+            color: #495057;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 40px;
+            padding: 20px;
+            color: #6c757d;
+            border-top: 1px solid #dee2e6;
+        }
+        .update-time {
+            background: #e9ecef;
+            padding: 10px;
+            border-radius: 5px;
+            margin-top: 20px;
+            text-align: center;
+            color: #6c757d;
+        }
+        a {
+            color: #667eea;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🎲 Brazilian Lottery API</h1>
+        <p>Static API for Brazilian lottery results - Updated automatically</p>
+    </div>
+    
+    <div class="endpoints">
+        <h2>🔗 API Endpoints</h2>
+        <p>All endpoints return JSON data. CORS is enabled for browser requests.</p>
+        
+        <div class="endpoint">
+            <span class="method">GET</span>
+            <span class="url">/v1/lotteries/{lottery}/draws/{number}.json</span>
+        </div>
+        <p>Returns specific draw results by number.</p>
+        
+        <div class="endpoint">
+            <span class="method">GET</span>
+            <span class="url">/v1/lotteries/{lottery}/draws/latest.json</span>
+        </div>
+        <p>Returns the most recent draw results.</p>
+        
+        <h3>Example URLs:</h3>
+        <div class="endpoint">
+            <span class="method">GET</span>
+            <span class="url"><a href="v1/lotteries/federal/draws/1.json">v1/lotteries/federal/draws/1.json</a></span>
+        </div>
+        <div class="endpoint">
+            <span class="method">GET</span>
+            <span class="url"><a href="v1/lotteries/federal/draws/latest.json">v1/lotteries/federal/draws/latest.json</a></span>
+        </div>
+    </div>
+    
+    <div class="update-time">
+        Last updated: 2025-08-14 01:05:54 UTC
+    </div>
+    
+    <div class="footer">
+        <p>Data source: <a href="https://loterias.caixa.gov.br/" target="_blank">Caixa Econômica Federal</a></p>
+        <p>This API is automatically updated daily via GitHub Actions</p>
+    </div>
+</body>
+</html>

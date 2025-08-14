@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5387,
+  "date": "2019-05-11",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "050761",
+      "prizeAmount": 1350000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "089421",
+      "prizeAmount": 15500.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "056302",
+      "prizeAmount": 14000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "009141",
+      "prizeAmount": 13000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "033285",
+      "prizeAmount": 12227.0
+    }
+  ]
+}

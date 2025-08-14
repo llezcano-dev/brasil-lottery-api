@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4905,
+  "date": "2014-09-27",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "059086",
+      "prizeAmount": 250000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "091482",
+      "prizeAmount": 17100.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "075413",
+      "prizeAmount": 16800.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "085255",
+      "prizeAmount": 16400.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "031869",
+      "prizeAmount": 15970.0
+    }
+  ]
+}

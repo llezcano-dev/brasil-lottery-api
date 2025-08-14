@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4698,
+  "date": "2012-10-03",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "074567",
+      "prizeAmount": 250000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "056179",
+      "prizeAmount": 25000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "085146",
+      "prizeAmount": 15500.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "021251",
+      "prizeAmount": 14000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "031351",
+      "prizeAmount": 12058.0
+    }
+  ]
+}

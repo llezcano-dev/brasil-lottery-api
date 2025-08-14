@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3989,
+  "date": "2005-12-03",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "021549",
+      "prizeAmount": 100000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "073439",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "023340",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "010407",
+      "prizeAmount": 3000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "040038",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

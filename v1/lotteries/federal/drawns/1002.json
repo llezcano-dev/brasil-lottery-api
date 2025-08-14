@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1002,
+  "date": "1973-01-10",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "046258",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "017384",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "015385",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "027753",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "043373",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

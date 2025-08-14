@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3568,
+  "date": "2001-08-04",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "006354",
+      "prizeAmount": 100000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "074682",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "030663",
+      "prizeAmount": 3000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "065069",
+      "prizeAmount": 2000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "010921",
+      "prizeAmount": 1000.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2212,
+  "date": "1985-11-30",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "023745",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "052558",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "046575",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "052240",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "010479",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

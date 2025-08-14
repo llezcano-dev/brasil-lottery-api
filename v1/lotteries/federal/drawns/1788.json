@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1788,
+  "date": "1981-05-09",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "000586",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "002446",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "047810",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "062753",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "077022",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

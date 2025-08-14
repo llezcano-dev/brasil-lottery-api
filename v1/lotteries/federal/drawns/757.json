@@ -1,0 +1,31 @@
+{
+  "drawNumber": 757,
+  "date": "1970-04-29",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "050105",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "007621",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "006048",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "028648",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "021789",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

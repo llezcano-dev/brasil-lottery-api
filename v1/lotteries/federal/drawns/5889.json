@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5889,
+  "date": "2024-08-03",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "023711",
+      "prizeAmount": 500000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "071790",
+      "prizeAmount": 27000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "084665",
+      "prizeAmount": 24000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "036349",
+      "prizeAmount": 19000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "017309",
+      "prizeAmount": 18329.0
+    }
+  ]
+}

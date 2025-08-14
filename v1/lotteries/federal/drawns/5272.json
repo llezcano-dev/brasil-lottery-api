@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5272,
+  "date": "2018-04-04",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "038954",
+      "prizeAmount": 350000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "062795",
+      "prizeAmount": 18000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "082130",
+      "prizeAmount": 15000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "067560",
+      "prizeAmount": 12000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "002002",
+      "prizeAmount": 10023.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5454,
+  "date": "2019-12-31",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "018881",
+      "prizeAmount": 500000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "099846",
+      "prizeAmount": 27000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "013836",
+      "prizeAmount": 24000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "011752",
+      "prizeAmount": 19000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "022349",
+      "prizeAmount": 18329.0
+    }
+  ]
+}

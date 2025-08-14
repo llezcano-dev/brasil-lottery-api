@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1872,
+  "date": "1982-03-27",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "004838",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "008624",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "013675",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "053191",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "017779",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

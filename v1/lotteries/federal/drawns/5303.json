@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5303,
+  "date": "2018-07-21",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "021442",
+      "prizeAmount": 350000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "030885",
+      "prizeAmount": 14000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "026197",
+      "prizeAmount": 13000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "051526",
+      "prizeAmount": 11000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "046911",
+      "prizeAmount": 10020.0
+    }
+  ]
+}

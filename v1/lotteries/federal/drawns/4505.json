@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4505,
+  "date": "2010-11-27",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "060869",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "005790",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "048576",
+      "prizeAmount": 3000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "023976",
+      "prizeAmount": 2470.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "029951",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

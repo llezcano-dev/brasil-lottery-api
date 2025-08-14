@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1156,
+  "date": "1974-08-14",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "012325",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "044555",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "051770",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "001563",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "012877",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

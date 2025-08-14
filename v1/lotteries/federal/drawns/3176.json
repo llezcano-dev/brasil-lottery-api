@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3176,
+  "date": "1997-05-03",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "003939",
+      "prizeAmount": 300000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "051849",
+      "prizeAmount": 15000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "060876",
+      "prizeAmount": 7000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "045515",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "065320",
+      "prizeAmount": 5000.0
+    }
+  ]
+}

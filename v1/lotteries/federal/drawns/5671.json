@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5671,
+  "date": "2022-06-11",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "025901",
+      "prizeAmount": 500000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "078357",
+      "prizeAmount": 27000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "026774",
+      "prizeAmount": 24000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "019983",
+      "prizeAmount": 19000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "078845",
+      "prizeAmount": 18329.0
+    }
+  ]
+}

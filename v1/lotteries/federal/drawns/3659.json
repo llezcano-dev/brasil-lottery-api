@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3659,
+  "date": "2002-07-31",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "007067",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "030070",
+      "prizeAmount": 12000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "043009",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "051992",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "000257",
+      "prizeAmount": 4000.0
+    }
+  ]
+}

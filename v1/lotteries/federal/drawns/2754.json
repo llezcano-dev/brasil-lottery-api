@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2754,
+  "date": "1991-11-27",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "012531",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "036442",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "017974",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "000706",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "028780",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

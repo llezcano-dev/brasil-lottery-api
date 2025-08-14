@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3661,
+  "date": "2002-08-07",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "057348",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "033902",
+      "prizeAmount": 12000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "010596",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "031869",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "057820",
+      "prizeAmount": 4000.0
+    }
+  ]
+}

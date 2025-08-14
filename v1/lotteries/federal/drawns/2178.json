@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2178,
+  "date": "1985-07-24",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "024598",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "023673",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "079252",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "000930",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "054240",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1265,
+  "date": "1975-09-27",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "031812",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "036281",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "031591",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "036473",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "000900",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

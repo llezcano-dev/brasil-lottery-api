@@ -1,0 +1,31 @@
+{
+  "drawNumber": 645,
+  "date": "1969-03-12",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "005245",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "022911",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "035384",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "019503",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "045516",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

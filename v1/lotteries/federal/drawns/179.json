@@ -1,0 +1,31 @@
+{
+  "drawNumber": 179,
+  "date": "1964-07-15",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "011692",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "031896",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "011903",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "001554",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "028983",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1082,
+  "date": "1973-11-10",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "007817",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "046090",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "030893",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "014292",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "024095",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5029,
+  "date": "2015-12-05",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "038312",
+      "prizeAmount": 300000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "049090",
+      "prizeAmount": 18600.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "011233",
+      "prizeAmount": 18500.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "039131",
+      "prizeAmount": 18400.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "017727",
+      "prizeAmount": 18304.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 879,
+  "date": "1971-07-24",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "023841",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "015373",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "008407",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "039304",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "040568",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

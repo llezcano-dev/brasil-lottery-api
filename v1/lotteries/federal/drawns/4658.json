@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4658,
+  "date": "2012-05-16",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "010102",
+      "prizeAmount": 250000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "031489",
+      "prizeAmount": 23000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "012744",
+      "prizeAmount": 13000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "025354",
+      "prizeAmount": 11800.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "059364",
+      "prizeAmount": 10765.0
+    }
+  ]
+}

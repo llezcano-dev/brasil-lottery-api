@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5788,
+  "date": "2023-08-05",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "063104",
+      "prizeAmount": 500000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "087466",
+      "prizeAmount": 27000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "020161",
+      "prizeAmount": 24000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "081255",
+      "prizeAmount": 19000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "023675",
+      "prizeAmount": 18329.0
+    }
+  ]
+}

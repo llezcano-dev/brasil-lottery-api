@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3685,
+  "date": "2002-11-13",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "060783",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "039978",
+      "prizeAmount": 12000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "064587",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "031450",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "069840",
+      "prizeAmount": 4000.0
+    }
+  ]
+}

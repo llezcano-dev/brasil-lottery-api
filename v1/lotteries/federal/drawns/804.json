@@ -1,0 +1,31 @@
+{
+  "drawNumber": 804,
+  "date": "1970-10-10",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "011523",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "052325",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "045199",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "024799",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "012669",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3912,
+  "date": "2005-02-26",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "073259",
+      "prizeAmount": 100000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "044619",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "044609",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "027812",
+      "prizeAmount": 3000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "042400",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

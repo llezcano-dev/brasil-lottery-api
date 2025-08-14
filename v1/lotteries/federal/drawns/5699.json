@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5699,
+  "date": "2022-09-17",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "049645",
+      "prizeAmount": 1350000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "075411",
+      "prizeAmount": 15500.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "057474",
+      "prizeAmount": 14000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "053147",
+      "prizeAmount": 13000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "000418",
+      "prizeAmount": 12227.0
+    }
+  ]
+}

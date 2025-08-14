@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2227,
+  "date": "1986-01-29",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "003859",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "030120",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "041035",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "009314",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "058776",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

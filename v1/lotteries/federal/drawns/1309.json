@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1309,
+  "date": "1976-03-20",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "020163",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "026483",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "003597",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "025110",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "027673",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

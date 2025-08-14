@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2659,
+  "date": "1990-11-10",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "001346",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "024618",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "030376",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "028768",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "060226",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

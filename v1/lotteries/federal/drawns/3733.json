@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3733,
+  "date": "2003-05-14",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "027995",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "010224",
+      "prizeAmount": 12000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "019705",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "051371",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "068237",
+      "prizeAmount": 4000.0
+    }
+  ]
+}

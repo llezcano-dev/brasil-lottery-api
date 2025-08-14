@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2786,
+  "date": "1992-04-01",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "068731",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "029849",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "045580",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "045737",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "016991",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

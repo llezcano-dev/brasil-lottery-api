@@ -1,0 +1,31 @@
+{
+  "drawNumber": 676,
+  "date": "1969-07-02",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "037225",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "003906",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "042902",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "018267",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "016202",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

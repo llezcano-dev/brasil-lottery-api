@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4503,
+  "date": "2010-11-20",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "081647",
+      "prizeAmount": 1000000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "058043",
+      "prizeAmount": 24000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "064977",
+      "prizeAmount": 14500.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "067089",
+      "prizeAmount": 14000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "044803",
+      "prizeAmount": 12240.0
+    }
+  ]
+}

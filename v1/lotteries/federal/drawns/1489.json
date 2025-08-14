@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1489,
+  "date": "1978-02-18",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "040892",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "048445",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "008935",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "018415",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "053644",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5501,
+  "date": "2020-09-30",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "033487",
+      "prizeAmount": 500000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "082261",
+      "prizeAmount": 27000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "079689",
+      "prizeAmount": 24040.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "024109",
+      "prizeAmount": 19000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "099594",
+      "prizeAmount": 18329.0
+    }
+  ]
+}

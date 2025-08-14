@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2321,
+  "date": "1987-02-11",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "015519",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "088564",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "051325",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "072886",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "075520",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

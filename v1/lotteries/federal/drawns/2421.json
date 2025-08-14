@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2421,
+  "date": "1988-03-02",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "003805",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "068791",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "044201",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "091920",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "017341",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

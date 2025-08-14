@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3281,
+  "date": "1998-06-27",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "043174",
+      "prizeAmount": 400000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "053283",
+      "prizeAmount": 20000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "015331",
+      "prizeAmount": 10000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "035586",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "011509",
+      "prizeAmount": 3000.0
+    }
+  ]
+}

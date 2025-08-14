@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5739,
+  "date": "2023-02-11",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "059186",
+      "prizeAmount": 1350000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "077123",
+      "prizeAmount": 15500.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "044821",
+      "prizeAmount": 14000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "034002",
+      "prizeAmount": 13000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "089085",
+      "prizeAmount": 12227.0
+    }
+  ]
+}

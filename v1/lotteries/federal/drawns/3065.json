@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3065,
+  "date": "1996-01-13",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "034636",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "062722",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "045206",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "001523",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "012462",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 485,
+  "date": "1967-08-02",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "023926",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "037635",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "008550",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "001183",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "022737",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

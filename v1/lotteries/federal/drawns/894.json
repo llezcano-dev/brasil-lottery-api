@@ -1,0 +1,31 @@
+{
+  "drawNumber": 894,
+  "date": "1971-09-22",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "042907",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "037591",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "003555",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "003142",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "000978",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

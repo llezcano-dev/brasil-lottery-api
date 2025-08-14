@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3597,
+  "date": "2001-11-28",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "008433",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "021597",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "063538",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "055891",
+      "prizeAmount": 3000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "009657",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

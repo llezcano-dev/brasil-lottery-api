@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3193,
+  "date": "1997-07-09",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "019816",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "029233",
+      "prizeAmount": 15000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "034337",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "037716",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "021249",
+      "prizeAmount": 3000.0
+    }
+  ]
+}

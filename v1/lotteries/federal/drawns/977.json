@@ -1,0 +1,31 @@
+{
+  "drawNumber": 977,
+  "date": "1972-09-23",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "015438",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "027852",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "045549",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "045821",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "037569",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

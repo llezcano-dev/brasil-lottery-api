@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2633,
+  "date": "1990-07-28",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "097480",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "074627",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "044288",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "001353",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "039990",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

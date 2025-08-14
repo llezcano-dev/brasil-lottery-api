@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2403,
+  "date": "1987-12-16",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "067132",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "043806",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "022858",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "043903",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "013870",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

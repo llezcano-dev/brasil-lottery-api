@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5640,
+  "date": "2022-02-19",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "032646",
+      "prizeAmount": 1350000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "089312",
+      "prizeAmount": 15500.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "079044",
+      "prizeAmount": 14000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "012271",
+      "prizeAmount": 13000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "037159",
+      "prizeAmount": 12227.0
+    }
+  ]
+}

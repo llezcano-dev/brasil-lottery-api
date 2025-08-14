@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5171,
+  "date": "2017-04-15",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "024405",
+      "prizeAmount": 450000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "055629",
+      "prizeAmount": 25000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "088531",
+      "prizeAmount": 22000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "055243",
+      "prizeAmount": 21000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "028565",
+      "prizeAmount": 15271.0
+    }
+  ]
+}

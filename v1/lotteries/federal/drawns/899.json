@@ -1,0 +1,31 @@
+{
+  "drawNumber": 899,
+  "date": "1971-10-09",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "033645",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "003846",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "016952",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "028466",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "033980",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

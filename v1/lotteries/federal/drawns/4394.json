@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4394,
+  "date": "2009-10-31",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "052574",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "003538",
+      "prizeAmount": 9000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "069904",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "069187",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "015701",
+      "prizeAmount": 4180.0
+    }
+  ]
+}

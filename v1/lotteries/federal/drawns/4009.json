@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4009,
+  "date": "2006-02-11",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "002683",
+      "prizeAmount": 100000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "031168",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "038280",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "018164",
+      "prizeAmount": 3000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "047897",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

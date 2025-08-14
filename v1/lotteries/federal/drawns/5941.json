@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5941,
+  "date": "2025-02-12",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "085656",
+      "prizeAmount": 500000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "093866",
+      "prizeAmount": 27000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "028853",
+      "prizeAmount": 24000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "065970",
+      "prizeAmount": 19000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "022608",
+      "prizeAmount": 18329.0
+    }
+  ]
+}

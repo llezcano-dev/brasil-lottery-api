@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4468,
+  "date": "2010-07-21",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "028583",
+      "prizeAmount": 250000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "016747",
+      "prizeAmount": 22000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "043086",
+      "prizeAmount": 12000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "036874",
+      "prizeAmount": 11000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "049853",
+      "prizeAmount": 10320.0
+    }
+  ]
+}

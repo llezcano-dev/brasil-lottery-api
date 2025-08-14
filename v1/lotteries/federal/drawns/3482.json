@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3482,
+  "date": "2000-08-23",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "011378",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "024876",
+      "prizeAmount": 10000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "008977",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "029528",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "002290",
+      "prizeAmount": 4000.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4362,
+  "date": "2009-07-11",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "016523",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "048743",
+      "prizeAmount": 14500.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "018081",
+      "prizeAmount": 9000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "059273",
+      "prizeAmount": 7000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "025220",
+      "prizeAmount": 4590.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2515,
+  "date": "1989-03-08",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "070242",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "043047",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "092480",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "013555",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "091127",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

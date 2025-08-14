@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2978,
+  "date": "1995-01-07",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "036099",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "004982",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "071746",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "048118",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "079473",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

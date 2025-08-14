@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4813,
+  "date": "2013-11-09",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "034176",
+      "prizeAmount": 1000000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "084741",
+      "prizeAmount": 22000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "050245",
+      "prizeAmount": 17100.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "040679",
+      "prizeAmount": 16200.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "090293",
+      "prizeAmount": 15890.0
+    }
+  ]
+}

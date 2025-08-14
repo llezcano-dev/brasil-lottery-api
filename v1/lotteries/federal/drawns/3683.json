@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3683,
+  "date": "2002-11-06",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "018718",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "032051",
+      "prizeAmount": 12000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "033464",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "056652",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "072647",
+      "prizeAmount": 4000.0
+    }
+  ]
+}

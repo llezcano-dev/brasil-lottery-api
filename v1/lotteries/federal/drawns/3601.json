@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3601,
+  "date": "2001-12-12",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "034863",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "043518",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "005082",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "067187",
+      "prizeAmount": 3000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "058724",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

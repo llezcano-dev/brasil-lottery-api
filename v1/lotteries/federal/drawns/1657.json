@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1657,
+  "date": "1979-12-05",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "049889",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "052192",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "018585",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "004918",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "001930",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

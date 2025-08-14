@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5441,
+  "date": "2019-11-16",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "082771",
+      "prizeAmount": 1350000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "024291",
+      "prizeAmount": 15500.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "051500",
+      "prizeAmount": 14000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "057448",
+      "prizeAmount": 13000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "055432",
+      "prizeAmount": 12227.0
+    }
+  ]
+}

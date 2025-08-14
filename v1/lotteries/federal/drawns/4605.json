@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4605,
+  "date": "2011-11-12",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "017211",
+      "prizeAmount": 1000000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "001879",
+      "prizeAmount": 24000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "025321",
+      "prizeAmount": 14500.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "038811",
+      "prizeAmount": 14000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "031058",
+      "prizeAmount": 12240.0
+    }
+  ]
+}

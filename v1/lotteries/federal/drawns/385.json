@@ -1,0 +1,31 @@
+{
+  "drawNumber": 385,
+  "date": "1966-08-06",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "030811",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "019575",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "036953",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "031922",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "018298",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

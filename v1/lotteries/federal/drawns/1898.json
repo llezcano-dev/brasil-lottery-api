@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1898,
+  "date": "1982-07-10",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "001908",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "063901",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "074383",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "026170",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "003779",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

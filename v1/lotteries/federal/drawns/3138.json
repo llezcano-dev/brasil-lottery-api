@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3138,
+  "date": "1996-11-20",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "040666",
+      "prizeAmount": 2500000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "006405",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "046403",
+      "prizeAmount": 100000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "005782",
+      "prizeAmount": 80000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "028207",
+      "prizeAmount": 60000.0
+    }
+  ]
+}

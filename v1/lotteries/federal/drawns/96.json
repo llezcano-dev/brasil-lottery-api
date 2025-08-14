@@ -1,0 +1,31 @@
+{
+  "drawNumber": 96,
+  "date": "1963-09-11",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "004323",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "004987",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "023625",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "033865",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "019390",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

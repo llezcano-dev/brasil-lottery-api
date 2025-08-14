@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3952,
+  "date": "2005-07-16",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "059974",
+      "prizeAmount": 100000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "034678",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "073200",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "074111",
+      "prizeAmount": 3000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "074940",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3703,
+  "date": "2003-01-22",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "019533",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "031120",
+      "prizeAmount": 12000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "023181",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "018739",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "029177",
+      "prizeAmount": 4000.0
+    }
+  ]
+}

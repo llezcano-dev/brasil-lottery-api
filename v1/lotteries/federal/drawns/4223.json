@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4223,
+  "date": "2008-03-08",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "030278",
+      "prizeAmount": 100000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "010103",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "038179",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "068278",
+      "prizeAmount": 3000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "050911",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

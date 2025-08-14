@@ -1,0 +1,31 @@
+{
+  "drawNumber": 226,
+  "date": "1964-12-30",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "009915",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "020458",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "036633",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "034001",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "031236",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

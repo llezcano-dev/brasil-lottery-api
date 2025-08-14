@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2937,
+  "date": "1994-07-20",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "002741",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "000427",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "002223",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "004412",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "007105",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

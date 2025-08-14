@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5546,
+  "date": "2021-03-13",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "054072",
+      "prizeAmount": 1350000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "002097",
+      "prizeAmount": 15500.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "015638",
+      "prizeAmount": 14000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "037584",
+      "prizeAmount": 13000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "018101",
+      "prizeAmount": 12227.0
+    }
+  ]
+}

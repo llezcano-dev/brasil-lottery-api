@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2005,
+  "date": "1983-08-27",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "003352",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "001984",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "042738",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "021703",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "032420",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

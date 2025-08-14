@@ -1,0 +1,31 @@
+{
+  "drawNumber": 831,
+  "date": "1971-01-23",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "030183",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "022482",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "005314",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "027060",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "055881",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

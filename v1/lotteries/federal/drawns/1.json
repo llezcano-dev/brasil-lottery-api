@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1,
+  "date": "1962-09-15",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "005349",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "038031",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "026492",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "025151",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "001416",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

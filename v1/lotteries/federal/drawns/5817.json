@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5817,
+  "date": "2023-11-16",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "064496",
+      "prizeAmount": 500000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "091802",
+      "prizeAmount": 27000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "045787",
+      "prizeAmount": 24000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "080533",
+      "prizeAmount": 19000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "060225",
+      "prizeAmount": 18329.0
+    }
+  ]
+}

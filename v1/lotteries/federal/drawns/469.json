@@ -1,0 +1,31 @@
+{
+  "drawNumber": 469,
+  "date": "1967-06-07",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "032156",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "019355",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "027466",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "013043",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "023072",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

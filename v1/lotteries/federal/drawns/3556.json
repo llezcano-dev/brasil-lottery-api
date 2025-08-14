@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3556,
+  "date": "2001-06-23",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "022942",
+      "prizeAmount": 300000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "051060",
+      "prizeAmount": 12000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "011036",
+      "prizeAmount": 10000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "059065",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "050648",
+      "prizeAmount": 6000.0
+    }
+  ]
+}

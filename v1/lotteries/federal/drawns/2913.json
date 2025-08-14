@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2913,
+  "date": "1994-04-13",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "008453",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "000000",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "000000",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "000000",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "000000",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

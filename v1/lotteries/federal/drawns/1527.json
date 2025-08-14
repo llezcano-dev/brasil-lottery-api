@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1527,
+  "date": "1978-07-12",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "021507",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "054320",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "046586",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "013869",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "008652",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

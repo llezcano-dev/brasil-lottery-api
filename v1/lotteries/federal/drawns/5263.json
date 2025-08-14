@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5263,
+  "date": "2018-03-03",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "083604",
+      "prizeAmount": 350000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "069392",
+      "prizeAmount": 14000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "013098",
+      "prizeAmount": 13000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "026647",
+      "prizeAmount": 11000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "073304",
+      "prizeAmount": 10020.0
+    }
+  ]
+}

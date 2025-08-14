@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1883,
+  "date": "1982-05-19",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "007913",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "066943",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "058953",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "038503",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "003776",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

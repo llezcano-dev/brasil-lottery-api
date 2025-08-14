@@ -1,0 +1,31 @@
+{
+  "drawNumber": 601,
+  "date": "1968-09-25",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "041431",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "017880",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "035707",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "039840",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "047253",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

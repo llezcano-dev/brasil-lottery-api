@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4377,
+  "date": "2009-09-02",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "060641",
+      "prizeAmount": 250000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "007694",
+      "prizeAmount": 26000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "026075",
+      "prizeAmount": 15000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "028086",
+      "prizeAmount": 9630.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "067297",
+      "prizeAmount": 8000.0
+    }
+  ]
+}

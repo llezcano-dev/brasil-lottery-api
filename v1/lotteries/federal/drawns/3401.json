@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3401,
+  "date": "1999-10-06",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "016494",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "030262",
+      "prizeAmount": 10000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "033671",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "042745",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "002103",
+      "prizeAmount": 4000.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4824,
+  "date": "2013-12-18",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "049656",
+      "prizeAmount": 250000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "079659",
+      "prizeAmount": 17100.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "049253",
+      "prizeAmount": 16600.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "021010",
+      "prizeAmount": 16100.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "039156",
+      "prizeAmount": 15200.0
+    }
+  ]
+}

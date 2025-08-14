@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5401,
+  "date": "2019-06-29",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "016959",
+      "prizeAmount": 500000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "005289",
+      "prizeAmount": 27000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "031845",
+      "prizeAmount": 24000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "039435",
+      "prizeAmount": 19000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "045977",
+      "prizeAmount": 18329.0
+    }
+  ]
+}

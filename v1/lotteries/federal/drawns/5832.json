@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5832,
+  "date": "2024-01-13",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "022673",
+      "prizeAmount": 500000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "016077",
+      "prizeAmount": 27000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "085213",
+      "prizeAmount": 24000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "091326",
+      "prizeAmount": 19000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "077138",
+      "prizeAmount": 18329.0
+    }
+  ]
+}

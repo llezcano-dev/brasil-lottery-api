@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3992,
+  "date": "2005-12-14",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "025654",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "055058",
+      "prizeAmount": 12000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "008037",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "048065",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "022973",
+      "prizeAmount": 4000.0
+    }
+  ]
+}

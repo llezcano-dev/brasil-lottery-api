@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5183,
+  "date": "2017-05-27",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "020062",
+      "prizeAmount": 350000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "065691",
+      "prizeAmount": 19000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "011949",
+      "prizeAmount": 16000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "087734",
+      "prizeAmount": 14000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "034776",
+      "prizeAmount": 12024.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2919,
+  "date": "1994-05-07",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "009345",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "068666",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "043464",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "018313",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "036271",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

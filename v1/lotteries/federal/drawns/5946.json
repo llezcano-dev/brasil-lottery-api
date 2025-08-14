@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5946,
+  "date": "2025-03-01",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "078324",
+      "prizeAmount": 500000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "042428",
+      "prizeAmount": 35000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "001791",
+      "prizeAmount": 30000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "048118",
+      "prizeAmount": 25000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "071825",
+      "prizeAmount": 20503.0
+    }
+  ]
+}

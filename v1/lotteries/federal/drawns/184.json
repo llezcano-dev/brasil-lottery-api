@@ -1,0 +1,31 @@
+{
+  "drawNumber": 184,
+  "date": "1964-08-01",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "013406",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "003564",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "024412",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "013857",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "019206",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

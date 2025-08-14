@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1311,
+  "date": "1976-03-27",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "015105",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "046068",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "009302",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "035453",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "043576",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

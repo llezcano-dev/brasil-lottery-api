@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1330,
+  "date": "1976-06-12",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "060395",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "047314",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "001050",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "055720",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "001156",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

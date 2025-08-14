@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1032,
+  "date": "1973-05-16",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "047533",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "000353",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "048101",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "010734",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "034045",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

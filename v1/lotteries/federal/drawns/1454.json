@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1454,
+  "date": "1977-09-28",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "031878",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "025046",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "007624",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "056275",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "025714",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

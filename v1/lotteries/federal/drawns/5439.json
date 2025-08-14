@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5439,
+  "date": "2019-11-09",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "059761",
+      "prizeAmount": 500000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "042421",
+      "prizeAmount": 27000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "048711",
+      "prizeAmount": 24000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "014600",
+      "prizeAmount": 19000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "020566",
+      "prizeAmount": 18329.0
+    }
+  ]
+}

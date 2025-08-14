@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2125,
+  "date": "1985-01-05",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "021447",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "055722",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "057655",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "052752",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "062216",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

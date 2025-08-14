@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5343,
+  "date": "2018-12-08",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "058330",
+      "prizeAmount": 350000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "008008",
+      "prizeAmount": 14000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "023181",
+      "prizeAmount": 13000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "071269",
+      "prizeAmount": 11000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "045762",
+      "prizeAmount": 10020.0
+    }
+  ]
+}

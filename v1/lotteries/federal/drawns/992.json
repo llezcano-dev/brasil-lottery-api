@@ -1,0 +1,31 @@
+{
+  "drawNumber": 992,
+  "date": "1972-11-25",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "046668",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "026517",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "031113",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "022655",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "036423",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

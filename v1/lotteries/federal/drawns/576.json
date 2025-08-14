@@ -1,0 +1,31 @@
+{
+  "drawNumber": 576,
+  "date": "1968-06-26",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "019519",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "008049",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "034860",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "030121",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "038302",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

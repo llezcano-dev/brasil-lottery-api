@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5220,
+  "date": "2017-10-04",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "072095",
+      "prizeAmount": 350000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "038743",
+      "prizeAmount": 18000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "030864",
+      "prizeAmount": 15000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "027615",
+      "prizeAmount": 12000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "063348",
+      "prizeAmount": 10888.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2061,
+  "date": "1984-04-11",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "016931",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "067484",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "016440",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "041964",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "005802",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

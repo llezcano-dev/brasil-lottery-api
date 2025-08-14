@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3495,
+  "date": "2000-10-14",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "029053",
+      "prizeAmount": 100000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "008063",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "038484",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "025728",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "053206",
+      "prizeAmount": 3000.0
+    }
+  ]
+}

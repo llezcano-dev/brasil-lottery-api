@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2184,
+  "date": "1985-08-14",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "020698",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "008915",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "019146",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "071230",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "068304",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

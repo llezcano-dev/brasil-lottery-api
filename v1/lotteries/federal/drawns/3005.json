@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3005,
+  "date": "1995-05-06",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "015322",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "030983",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "033325",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "055993",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "004291",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

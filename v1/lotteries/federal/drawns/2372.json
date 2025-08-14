@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2372,
+  "date": "1987-08-15",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "067327",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "065759",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "096416",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "010636",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "009805",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

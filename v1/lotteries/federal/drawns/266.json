@@ -1,0 +1,31 @@
+{
+  "drawNumber": 266,
+  "date": "1965-06-05",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "002678",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "003552",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "008538",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "020545",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "029412",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

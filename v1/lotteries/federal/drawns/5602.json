@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5602,
+  "date": "2021-10-02",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "045469",
+      "prizeAmount": 500000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "066903",
+      "prizeAmount": 27000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "087788",
+      "prizeAmount": 24000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "010080",
+      "prizeAmount": 19000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "081813",
+      "prizeAmount": 18329.0
+    }
+  ]
+}

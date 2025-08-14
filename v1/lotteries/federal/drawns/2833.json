@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2833,
+  "date": "1993-01-23",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "019081",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "018661",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "020011",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "025073",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "026415",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

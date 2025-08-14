@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2546,
+  "date": "1989-07-12",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "097971",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "037359",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "055396",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "079249",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "074500",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

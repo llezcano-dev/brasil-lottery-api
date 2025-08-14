@@ -1,0 +1,31 @@
+{
+  "drawNumber": 368,
+  "date": "1966-06-08",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "019946",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "005630",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "019211",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "020554",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "011149",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

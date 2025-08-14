@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5458,
+  "date": "2020-01-11",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "073440",
+      "prizeAmount": 1350000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "069992",
+      "prizeAmount": 15500.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "019085",
+      "prizeAmount": 14000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "042112",
+      "prizeAmount": 13000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "070448",
+      "prizeAmount": 12227.0
+    }
+  ]
+}

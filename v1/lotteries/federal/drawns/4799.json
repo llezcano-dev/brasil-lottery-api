@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4799,
+  "date": "2013-09-21",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "060989",
+      "prizeAmount": 250000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "017413",
+      "prizeAmount": 17100.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "014456",
+      "prizeAmount": 16800.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "014232",
+      "prizeAmount": 16400.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "010664",
+      "prizeAmount": 15970.0
+    }
+  ]
+}

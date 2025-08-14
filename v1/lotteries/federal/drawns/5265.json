@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5265,
+  "date": "2018-03-10",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "021881",
+      "prizeAmount": 1000000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "053047",
+      "prizeAmount": 13000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "030458",
+      "prizeAmount": 12000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "077794",
+      "prizeAmount": 10000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "006612",
+      "prizeAmount": 9489.0
+    }
+  ]
+}

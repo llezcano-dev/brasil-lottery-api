@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3418,
+  "date": "1999-12-15",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "031877",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "017831",
+      "prizeAmount": 10000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "021862",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "063265",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "012535",
+      "prizeAmount": 4000.0
+    }
+  ]
+}

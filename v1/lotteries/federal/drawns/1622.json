@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1622,
+  "date": "1979-07-18",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "039751",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "009399",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "049098",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "012847",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "016140",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

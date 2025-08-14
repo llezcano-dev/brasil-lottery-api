@@ -1,0 +1,31 @@
+{
+  "drawNumber": 711,
+  "date": "1969-11-01",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "007492",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "034677",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "016625",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "004961",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "016005",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

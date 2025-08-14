@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3720,
+  "date": "2003-03-26",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "005044",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "002413",
+      "prizeAmount": 12000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "041196",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "031202",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "035291",
+      "prizeAmount": 4000.0
+    }
+  ]
+}

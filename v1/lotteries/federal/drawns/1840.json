@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1840,
+  "date": "1981-11-21",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "029084",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "077550",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "063526",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "045516",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "007229",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

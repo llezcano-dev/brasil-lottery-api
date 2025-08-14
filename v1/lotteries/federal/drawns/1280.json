@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1280,
+  "date": "1975-11-26",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "009793",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "036616",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "036315",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "048748",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "014829",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

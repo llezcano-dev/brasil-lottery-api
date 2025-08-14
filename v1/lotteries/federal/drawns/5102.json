@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5102,
+  "date": "2016-08-17",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "085889",
+      "prizeAmount": 350000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "065207",
+      "prizeAmount": 19000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "082797",
+      "prizeAmount": 16000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "054445",
+      "prizeAmount": 14000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "088221",
+      "prizeAmount": 12000.0
+    }
+  ]
+}

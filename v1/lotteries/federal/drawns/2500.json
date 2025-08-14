@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2500,
+  "date": "1989-01-11",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "066069",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "077589",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "060325",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "003547",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "048642",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

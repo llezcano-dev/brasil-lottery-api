@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1372,
+  "date": "1976-11-17",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "001448",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "063146",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "007518",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "052250",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "035964",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

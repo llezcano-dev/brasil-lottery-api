@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4631,
+  "date": "2012-02-11",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "074014",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "046586",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "048446",
+      "prizeAmount": 3000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "068344",
+      "prizeAmount": 2470.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "067476",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

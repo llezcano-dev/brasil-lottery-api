@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1915,
+  "date": "1982-09-15",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "057251",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "025010",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "035903",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "026728",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "042251",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

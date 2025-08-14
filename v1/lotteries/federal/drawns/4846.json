@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4846,
+  "date": "2014-03-06",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "073922",
+      "prizeAmount": 250000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "001422",
+      "prizeAmount": 16300.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "025570",
+      "prizeAmount": 16000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "027025",
+      "prizeAmount": 15800.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "017404",
+      "prizeAmount": 15223.0
+    }
+  ]
+}

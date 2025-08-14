@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5412,
+  "date": "2019-08-07",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "073771",
+      "prizeAmount": 500000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "062808",
+      "prizeAmount": 27000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "054470",
+      "prizeAmount": 24000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "061446",
+      "prizeAmount": 19000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "045214",
+      "prizeAmount": 18329.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4566,
+  "date": "2011-06-29",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "031953",
+      "prizeAmount": 250000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "044658",
+      "prizeAmount": 22000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "015290",
+      "prizeAmount": 12000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "031355",
+      "prizeAmount": 11000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "042203",
+      "prizeAmount": 10320.0
+    }
+  ]
+}

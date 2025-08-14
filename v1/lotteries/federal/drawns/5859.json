@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5859,
+  "date": "2024-04-20",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "034691",
+      "prizeAmount": 1350000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "004210",
+      "prizeAmount": 15500.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "065234",
+      "prizeAmount": 14000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "047521",
+      "prizeAmount": 13000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "006923",
+      "prizeAmount": 12227.0
+    }
+  ]
+}

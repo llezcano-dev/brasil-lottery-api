@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2987,
+  "date": "1995-02-08",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "007552",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "008449",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "007656",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "004837",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "008252",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

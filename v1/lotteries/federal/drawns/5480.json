@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5480,
+  "date": "2020-07-18",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "023367",
+      "prizeAmount": 500000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "024804",
+      "prizeAmount": 27000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "017102",
+      "prizeAmount": 24000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "039594",
+      "prizeAmount": 19000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "035477",
+      "prizeAmount": 18369.0
+    }
+  ]
+}

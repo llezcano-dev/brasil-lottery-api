@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4679,
+  "date": "2012-07-28",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "064683",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "070365",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "017588",
+      "prizeAmount": 3000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "062603",
+      "prizeAmount": 2466.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "044718",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

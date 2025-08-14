@@ -1,0 +1,31 @@
+{
+  "drawNumber": 957,
+  "date": "1972-06-17",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "033786",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "030069",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "026864",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "016937",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "035741",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

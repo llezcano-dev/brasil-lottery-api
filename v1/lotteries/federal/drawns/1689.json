@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1689,
+  "date": "1980-04-16",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "040525",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "062791",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "060759",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "002010",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "009134",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

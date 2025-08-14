@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4878,
+  "date": "2014-06-25",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "068359",
+      "prizeAmount": 1300000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "073740",
+      "prizeAmount": 100000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "054455",
+      "prizeAmount": 40000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "052639",
+      "prizeAmount": 20000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "077532",
+      "prizeAmount": 17746.0
+    }
+  ]
+}

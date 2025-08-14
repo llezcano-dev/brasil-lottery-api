@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4268,
+  "date": "2008-08-13",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "074862",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "048490",
+      "prizeAmount": 12000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "021557",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "052358",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "039557",
+      "prizeAmount": 4000.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3504,
+  "date": "2000-11-22",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "067790",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "068444",
+      "prizeAmount": 10000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "019222",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "027874",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "034201",
+      "prizeAmount": 4000.0
+    }
+  ]
+}

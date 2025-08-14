@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3351,
+  "date": "1999-03-27",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "023337",
+      "prizeAmount": 100000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "064074",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "017584",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "045655",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "043858",
+      "prizeAmount": 3000.0
+    }
+  ]
+}

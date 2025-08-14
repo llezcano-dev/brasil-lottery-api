@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3888,
+  "date": "2004-11-27",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "048731",
+      "prizeAmount": 100000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "007382",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "002942",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "029007",
+      "prizeAmount": 3000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "065726",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

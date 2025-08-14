@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2192,
+  "date": "1985-09-14",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "042252",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "046020",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "058564",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "020949",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "038047",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

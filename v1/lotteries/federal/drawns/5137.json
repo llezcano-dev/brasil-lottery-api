@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5137,
+  "date": "2016-12-17",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "036390",
+      "prizeAmount": 350000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "084213",
+      "prizeAmount": 19000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "043867",
+      "prizeAmount": 16000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "069182",
+      "prizeAmount": 14000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "025760",
+      "prizeAmount": 12024.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2478,
+  "date": "1988-10-05",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "014309",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "019761",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "077452",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "067628",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "021289",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

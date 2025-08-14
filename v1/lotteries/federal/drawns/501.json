@@ -1,0 +1,31 @@
+{
+  "drawNumber": 501,
+  "date": "1967-09-27",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "045039",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "006240",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "033515",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "040956",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "045963",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

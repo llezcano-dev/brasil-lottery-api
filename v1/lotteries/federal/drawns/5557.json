@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5557,
+  "date": "2021-04-24",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "092277",
+      "prizeAmount": 500000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "079719",
+      "prizeAmount": 27000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "091748",
+      "prizeAmount": 24000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "077128",
+      "prizeAmount": 19000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "030935",
+      "prizeAmount": 18329.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5726,
+  "date": "2022-12-24",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "072654",
+      "prizeAmount": 1350000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "018306",
+      "prizeAmount": 15500.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "080593",
+      "prizeAmount": 14000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "089718",
+      "prizeAmount": 13000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "036951",
+      "prizeAmount": 12227.0
+    }
+  ]
+}

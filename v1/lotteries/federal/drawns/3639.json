@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3639,
+  "date": "2002-05-15",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "039923",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "011686",
+      "prizeAmount": 12000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "023275",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "016647",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "032626",
+      "prizeAmount": 4000.0
+    }
+  ]
+}

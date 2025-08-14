@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2853,
+  "date": "1993-06-19",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "020561",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "035140",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "071195",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "070389",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "079468",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

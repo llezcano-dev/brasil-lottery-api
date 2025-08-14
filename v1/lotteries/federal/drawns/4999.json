@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4999,
+  "date": "2015-08-22",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "093644",
+      "prizeAmount": 300000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "027401",
+      "prizeAmount": 18600.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "042641",
+      "prizeAmount": 18500.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "062494",
+      "prizeAmount": 18400.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "054020",
+      "prizeAmount": 18304.0
+    }
+  ]
+}

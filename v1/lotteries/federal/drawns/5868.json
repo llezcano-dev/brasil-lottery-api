@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5868,
+  "date": "2024-05-22",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "003803",
+      "prizeAmount": 500000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "087126",
+      "prizeAmount": 27000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "044770",
+      "prizeAmount": 24000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "093869",
+      "prizeAmount": 19000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "009766",
+      "prizeAmount": 18329.0
+    }
+  ]
+}

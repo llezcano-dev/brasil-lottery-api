@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4277,
+  "date": "2008-09-13",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "034050",
+      "prizeAmount": 100000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "014207",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "029052",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "052212",
+      "prizeAmount": 3000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "043939",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

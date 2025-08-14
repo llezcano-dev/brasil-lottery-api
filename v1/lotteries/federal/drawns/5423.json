@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5423,
+  "date": "2019-09-14",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "010049",
+      "prizeAmount": 1350000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "086819",
+      "prizeAmount": 15500.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "036182",
+      "prizeAmount": 14000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "006154",
+      "prizeAmount": 13000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "039613",
+      "prizeAmount": 12227.0
+    }
+  ]
+}

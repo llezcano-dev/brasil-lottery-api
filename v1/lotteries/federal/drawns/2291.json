@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2291,
+  "date": "1986-10-12",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "071852",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "012566",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "091361",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "005400",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "001810",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

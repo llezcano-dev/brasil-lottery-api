@@ -1,0 +1,31 @@
+{
+  "drawNumber": 954,
+  "date": "1972-06-07",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "039689",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "047918",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "029031",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "017580",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "009971",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1382,
+  "date": "1976-12-22",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "022255",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "020428",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "031803",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "006919",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "001335",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

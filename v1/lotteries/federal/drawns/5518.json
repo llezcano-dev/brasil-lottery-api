@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5518,
+  "date": "2020-11-28",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "046174",
+      "prizeAmount": 500000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "068046",
+      "prizeAmount": 27000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "008400",
+      "prizeAmount": 24000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "018323",
+      "prizeAmount": 19000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "049190",
+      "prizeAmount": 18329.0
+    }
+  ]
+}

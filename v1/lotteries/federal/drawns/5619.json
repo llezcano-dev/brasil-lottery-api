@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5619,
+  "date": "2021-12-04",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "001498",
+      "prizeAmount": 500000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "015904",
+      "prizeAmount": 27000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "084856",
+      "prizeAmount": 24000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "072834",
+      "prizeAmount": 19000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "007754",
+      "prizeAmount": 18329.0
+    }
+  ]
+}

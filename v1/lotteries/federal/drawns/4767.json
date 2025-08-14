@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4767,
+  "date": "2013-06-01",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "011884",
+      "prizeAmount": 360000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "025118",
+      "prizeAmount": 51000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "033241",
+      "prizeAmount": 36750.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "073167",
+      "prizeAmount": 17100.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "077204",
+      "prizeAmount": 15000.0
+    }
+  ]
+}

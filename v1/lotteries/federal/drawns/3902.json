@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3902,
+  "date": "2005-01-22",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "064836",
+      "prizeAmount": 100000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "049157",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "017286",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "022245",
+      "prizeAmount": 3000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "048708",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

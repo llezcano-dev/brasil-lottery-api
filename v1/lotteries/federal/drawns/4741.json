@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4741,
+  "date": "2013-03-02",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "066525",
+      "prizeAmount": 250000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "066575",
+      "prizeAmount": 17100.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "069558",
+      "prizeAmount": 16800.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "039049",
+      "prizeAmount": 16400.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "070674",
+      "prizeAmount": 15970.0
+    }
+  ]
+}
