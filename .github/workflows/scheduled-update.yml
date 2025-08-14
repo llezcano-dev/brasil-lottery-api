@@ -34,12 +34,12 @@ jobs:
       run: |
         # Get the scripts from main branch
         git fetch origin main
-        git checkout origin/main -- scripts/federal_update_latest.py
+        git checkout origin/main -- scripts/updaters/federal.py
         git checkout origin/main -- scripts/create_github_pages.py
         
     - name: Update latest federal result
       run: |
-        python scripts/federal_update_latest.py ./v1
+        python scripts/updaters/federal.py ./v1
         
     - name: Update GitHub Pages
       run: |

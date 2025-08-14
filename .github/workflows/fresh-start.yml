@@ -26,21 +26,17 @@ jobs:
         python -m pip install --upgrade pip
         pip install requests pyexcel pyexcel-xlsx
         
-    - name: Download lottery data
+    - name: Download lotteries data as CSV
       run: |
-        python scripts/lottery_downloader.py Federal federal
-        
-    - name: Convert Excel to CSV
+        python scripts/download_lottery.py federal
+
+    - name: Generate lotteries API from CSV
       run: |
-        python scripts/xlsx_to_csv.py federal.xlsx federal.csv
-        
-    - name: Generate API files from historical data
+        python scripts/generate_static_api.py federal.csv ./v1/lotteries/federal/drawns federal
+
+    - name: Update federal lottery with latest live result (useful if csv is not up-to-date)
       run: |
-        python scripts/federal_csv_to_api.py federal.csv
-        
-    - name: Update with latest live result
-      run: |
-        python scripts/federal_update_latest.py
+        python scripts/updaters/federal.py
         
     - name: Create GitHub Pages
       run: |
