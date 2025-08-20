@@ -32,7 +32,7 @@ jobs:
 
     - name: Generate lotteries API from CSV
       run: |
-        python scripts/generate_static_api.py federal.csv ./v1/lotteries/federal/drawns federal
+        python scripts/generate_static_api.py federal.csv ./v1/lotteries/federal/draws federal
 
     - name: Update federal lottery with latest live result (useful if csv is not up-to-date)
       run: |
