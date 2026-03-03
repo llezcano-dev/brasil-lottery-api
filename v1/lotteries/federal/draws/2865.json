@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2865,
+  "date": "1993-09-11",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "035620",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "056693",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "048747",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "070124",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "045510",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

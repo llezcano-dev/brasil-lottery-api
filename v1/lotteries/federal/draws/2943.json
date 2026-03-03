@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2943,
+  "date": "1994-08-10",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "008070",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "001969",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "000938",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "009319",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "002217",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1380,
+  "date": "1976-12-15",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "007745",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "006766",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "020369",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "034452",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "066056",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

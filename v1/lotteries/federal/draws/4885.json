@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4885,
+  "date": "2014-07-19",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "016198",
+      "prizeAmount": 1000000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "013557",
+      "prizeAmount": 22000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "087275",
+      "prizeAmount": 17800.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "012729",
+      "prizeAmount": 16900.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "038242",
+      "prizeAmount": 15730.0
+    }
+  ]
+}

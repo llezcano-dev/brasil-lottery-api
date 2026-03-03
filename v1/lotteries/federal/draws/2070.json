@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2070,
+  "date": "1984-05-23",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "028506",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "059582",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "014139",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "009919",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "013470",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

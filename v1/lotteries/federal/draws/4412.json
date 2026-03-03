@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4412,
+  "date": "2010-01-02",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "070662",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "030373",
+      "prizeAmount": 13000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "035067",
+      "prizeAmount": 12000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "029985",
+      "prizeAmount": 11000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "019059",
+      "prizeAmount": 10630.0
+    }
+  ]
+}

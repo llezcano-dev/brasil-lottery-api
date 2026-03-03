@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4304,
+  "date": "2008-12-20",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "044674",
+      "prizeAmount": 1000000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "004836",
+      "prizeAmount": 50000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "030471",
+      "prizeAmount": 40000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "011777",
+      "prizeAmount": 20000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "041211",
+      "prizeAmount": 15000.0
+    }
+  ]
+}

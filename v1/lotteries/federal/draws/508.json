@@ -1,0 +1,31 @@
+{
+  "drawNumber": 508,
+  "date": "1967-10-21",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "028785",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "037198",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "025370",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "006514",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "038388",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3278,
+  "date": "1998-06-13",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "023226",
+      "prizeAmount": 100000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "053734",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "003194",
+      "prizeAmount": 3000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "062226",
+      "prizeAmount": 2000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "058490",
+      "prizeAmount": 1000.0
+    }
+  ]
+}

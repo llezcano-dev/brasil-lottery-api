@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2713,
+  "date": "1991-06-15",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "061545",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "017867",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "032108",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "001914",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "019277",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

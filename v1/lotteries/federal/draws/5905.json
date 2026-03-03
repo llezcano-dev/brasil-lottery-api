@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5905,
+  "date": "2024-09-28",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "042416",
+      "prizeAmount": 500000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "094684",
+      "prizeAmount": 27000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "066346",
+      "prizeAmount": 24000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "000917",
+      "prizeAmount": 19000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "032900",
+      "prizeAmount": 18329.0
+    }
+  ]
+}

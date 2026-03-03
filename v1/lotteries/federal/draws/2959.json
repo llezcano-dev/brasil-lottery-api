@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2959,
+  "date": "1994-10-15",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "042356",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "019744",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "026999",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "018546",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "014955",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3879,
+  "date": "2004-10-27",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "072055",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "054428",
+      "prizeAmount": 12000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "073188",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "049590",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "068402",
+      "prizeAmount": 4000.0
+    }
+  ]
+}

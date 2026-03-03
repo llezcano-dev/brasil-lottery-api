@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4178,
+  "date": "2007-10-03",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "015560",
+      "prizeAmount": 100000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "074143",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "007490",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "071192",
+      "prizeAmount": 3000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "063440",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

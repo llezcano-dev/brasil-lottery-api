@@ -1,0 +1,31 @@
+{
+  "drawNumber": 231,
+  "date": "1965-01-23",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "027757",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "018769",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "016655",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "020552",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "025699",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

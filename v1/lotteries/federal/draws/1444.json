@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1444,
+  "date": "1977-08-20",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "038608",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "018995",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "020628",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "050248",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "059794",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

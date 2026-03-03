@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2116,
+  "date": "1984-11-28",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "054147",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "060983",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "055736",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "060903",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "022933",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

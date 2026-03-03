@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5215,
+  "date": "2017-09-16",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "062637",
+      "prizeAmount": 1350000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "014971",
+      "prizeAmount": 21000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "042176",
+      "prizeAmount": 20000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "088888",
+      "prizeAmount": 18000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "047348",
+      "prizeAmount": 17038.0
+    }
+  ]
+}

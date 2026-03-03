@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4057,
+  "date": "2006-07-29",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "016130",
+      "prizeAmount": 100000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "035336",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "049360",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "025030",
+      "prizeAmount": 3000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "046628",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

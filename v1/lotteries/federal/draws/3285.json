@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3285,
+  "date": "1998-07-11",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "005367",
+      "prizeAmount": 100000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "039489",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "009883",
+      "prizeAmount": 3000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "034842",
+      "prizeAmount": 2000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "001171",
+      "prizeAmount": 1000.0
+    }
+  ]
+}

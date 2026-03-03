@@ -1,0 +1,31 @@
+{
+  "drawNumber": 517,
+  "date": "1967-11-25",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "008061",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "025772",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "032787",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "042697",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "029566",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

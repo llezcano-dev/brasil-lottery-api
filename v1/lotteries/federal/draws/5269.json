@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5269,
+  "date": "2018-03-24",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "053646",
+      "prizeAmount": 350000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "033427",
+      "prizeAmount": 14000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "080076",
+      "prizeAmount": 13000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "030351",
+      "prizeAmount": 11000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "011340",
+      "prizeAmount": 10020.0
+    }
+  ]
+}

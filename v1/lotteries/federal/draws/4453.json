@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4453,
+  "date": "2010-05-29",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "019988",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "077004",
+      "prizeAmount": 10500.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "024080",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "026290",
+      "prizeAmount": 5130.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "039634",
+      "prizeAmount": 3500.0
+    }
+  ]
+}

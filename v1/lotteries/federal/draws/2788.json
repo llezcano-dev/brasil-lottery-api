@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2788,
+  "date": "1992-04-08",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "069644",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "063608",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "013586",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "055302",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "050947",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

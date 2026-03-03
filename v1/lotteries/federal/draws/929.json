@@ -1,0 +1,31 @@
+{
+  "drawNumber": 929,
+  "date": "1972-02-23",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "037560",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "025200",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "045369",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "004825",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "018857",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

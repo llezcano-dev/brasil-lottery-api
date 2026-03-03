@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2578,
+  "date": "1989-11-22",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "004236",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "010076",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "037664",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "031081",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "071043",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

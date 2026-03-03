@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4777,
+  "date": "2013-07-06",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "049918",
+      "prizeAmount": 250000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "066566",
+      "prizeAmount": 17100.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "036428",
+      "prizeAmount": 16800.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "031187",
+      "prizeAmount": 16400.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "080678",
+      "prizeAmount": 15970.0
+    }
+  ]
+}

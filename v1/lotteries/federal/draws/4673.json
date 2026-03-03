@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4673,
+  "date": "2012-07-07",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "054034",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "058483",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "059529",
+      "prizeAmount": 3000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "071945",
+      "prizeAmount": 2466.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "028400",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

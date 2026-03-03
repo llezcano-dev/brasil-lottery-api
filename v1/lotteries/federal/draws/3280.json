@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3280,
+  "date": "1998-06-20",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "017506",
+      "prizeAmount": 100000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "061426",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "000750",
+      "prizeAmount": 3000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "033265",
+      "prizeAmount": 2000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "003915",
+      "prizeAmount": 1000.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 481,
+  "date": "1967-07-19",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "024999",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "008586",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "001477",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "035671",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "037750",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

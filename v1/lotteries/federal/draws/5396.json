@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5396,
+  "date": "2019-06-12",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "049634",
+      "prizeAmount": 500000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "047385",
+      "prizeAmount": 27000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "040403",
+      "prizeAmount": 24000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "092224",
+      "prizeAmount": 19000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "019008",
+      "prizeAmount": 18329.0
+    }
+  ]
+}

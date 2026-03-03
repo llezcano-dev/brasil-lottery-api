@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1402,
+  "date": "1977-03-16",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "026205",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "046221",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "049900",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "023824",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "045613",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

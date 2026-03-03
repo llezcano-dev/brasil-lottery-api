@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1437,
+  "date": "1977-07-23",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "054994",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "008431",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "054566",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "053767",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "052366",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

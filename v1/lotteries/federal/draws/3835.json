@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3835,
+  "date": "2004-05-26",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "061032",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "015016",
+      "prizeAmount": 12000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "034343",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "069580",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "029721",
+      "prizeAmount": 4000.0
+    }
+  ]
+}

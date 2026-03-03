@@ -1,0 +1,31 @@
+{
+  "drawNumber": 76,
+  "date": "1963-06-29",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "009744",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "025574",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "007298",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "027290",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "020122",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

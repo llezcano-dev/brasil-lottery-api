@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2357,
+  "date": "1987-06-24",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "096747",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "023874",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "053074",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "011176",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "080741",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

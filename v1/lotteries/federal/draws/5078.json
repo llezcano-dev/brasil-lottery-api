@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5078,
+  "date": "2016-05-25",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "075708",
+      "prizeAmount": 300000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "019254",
+      "prizeAmount": 17000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "084698",
+      "prizeAmount": 16000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "024086",
+      "prizeAmount": 15000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "031580",
+      "prizeAmount": 14087.0
+    }
+  ]
+}

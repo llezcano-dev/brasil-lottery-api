@@ -1,0 +1,31 @@
+{
+  "drawNumber": 120,
+  "date": "1963-12-07",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "023499",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "011600",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "008383",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "032665",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "034831",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

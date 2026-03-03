@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2723,
+  "date": "1991-07-27",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "035508",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "031451",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "005285",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "014948",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "052248",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

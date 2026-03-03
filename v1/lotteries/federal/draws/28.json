@@ -1,0 +1,31 @@
+{
+  "drawNumber": 28,
+  "date": "1963-01-02",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "029063",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "005673",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "015479",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "022347",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "036597",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

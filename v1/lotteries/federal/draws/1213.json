@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1213,
+  "date": "1975-03-19",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "017190",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "036073",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "035080",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "052436",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "011419",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

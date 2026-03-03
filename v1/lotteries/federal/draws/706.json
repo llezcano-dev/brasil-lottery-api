@@ -1,0 +1,31 @@
+{
+  "drawNumber": 706,
+  "date": "1969-10-15",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "032956",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "004964",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "049558",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "016799",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "015760",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

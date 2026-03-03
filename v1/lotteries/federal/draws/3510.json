@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3510,
+  "date": "2000-12-13",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "041868",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "047803",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "061052",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "064233",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "058999",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

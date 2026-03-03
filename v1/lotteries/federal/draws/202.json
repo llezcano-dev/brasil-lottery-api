@@ -1,0 +1,31 @@
+{
+  "drawNumber": 202,
+  "date": "1964-10-07",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "009743",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "023654",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "038304",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "036778",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "028603",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

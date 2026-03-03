@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5752,
+  "date": "2023-04-01",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "026379",
+      "prizeAmount": 500000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "028792",
+      "prizeAmount": 27000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "099305",
+      "prizeAmount": 24000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "083070",
+      "prizeAmount": 19000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "069918",
+      "prizeAmount": 18329.0
+    }
+  ]
+}

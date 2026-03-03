@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1717,
+  "date": "1980-07-30",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "064686",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "006978",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "069190",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "047274",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "016123",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

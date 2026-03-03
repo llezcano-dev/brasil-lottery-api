@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4286,
+  "date": "2008-10-15",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "002779",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "017067",
+      "prizeAmount": 12000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "017219",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "005142",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "000901",
+      "prizeAmount": 4000.0
+    }
+  ]
+}

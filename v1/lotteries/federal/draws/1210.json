@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1210,
+  "date": "1975-03-08",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "035769",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "033659",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "047970",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "022753",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "031896",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

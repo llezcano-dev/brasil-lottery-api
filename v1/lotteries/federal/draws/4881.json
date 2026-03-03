@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4881,
+  "date": "2014-07-05",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "008175",
+      "prizeAmount": 250000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "086286",
+      "prizeAmount": 17100.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "027451",
+      "prizeAmount": 16800.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "013923",
+      "prizeAmount": 16400.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "092649",
+      "prizeAmount": 15970.0
+    }
+  ]
+}

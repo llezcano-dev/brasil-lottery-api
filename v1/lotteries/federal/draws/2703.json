@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2703,
+  "date": "1991-05-08",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "041979",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "042027",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "056930",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "051664",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "041919",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

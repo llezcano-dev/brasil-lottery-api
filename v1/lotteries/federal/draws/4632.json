@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4632,
+  "date": "2012-02-15",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "012825",
+      "prizeAmount": 250000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "018949",
+      "prizeAmount": 22000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "027934",
+      "prizeAmount": 12000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "072261",
+      "prizeAmount": 11000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "018880",
+      "prizeAmount": 10320.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4398,
+  "date": "2009-11-14",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "069351",
+      "prizeAmount": 1000000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "070176",
+      "prizeAmount": 32000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "035930",
+      "prizeAmount": 27000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "015171",
+      "prizeAmount": 14300.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "044339",
+      "prizeAmount": 12720.0
+    }
+  ]
+}

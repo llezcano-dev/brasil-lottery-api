@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3299,
+  "date": "1998-09-02",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "005358",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "001480",
+      "prizeAmount": 15000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "019535",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "050156",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "006541",
+      "prizeAmount": 3000.0
+    }
+  ]
+}

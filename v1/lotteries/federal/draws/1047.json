@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1047,
+  "date": "1973-07-07",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "017708",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "002046",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "009840",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "004582",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "001836",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1167,
+  "date": "1974-09-25",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "037374",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "047972",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "038544",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "017141",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "039294",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

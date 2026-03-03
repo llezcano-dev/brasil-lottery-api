@@ -1,0 +1,31 @@
+{
+  "drawNumber": 118,
+  "date": "1963-11-30",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "018957",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "002658",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "021866",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "017143",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "025429",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

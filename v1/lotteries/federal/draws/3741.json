@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3741,
+  "date": "2003-06-11",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "008529",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "061683",
+      "prizeAmount": 12000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "073954",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "039450",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "018108",
+      "prizeAmount": 4000.0
+    }
+  ]
+}

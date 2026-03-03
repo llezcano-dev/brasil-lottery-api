@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4159,
+  "date": "2007-07-28",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "046299",
+      "prizeAmount": 100000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "039163",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "065558",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "071137",
+      "prizeAmount": 3000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "013584",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

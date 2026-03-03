@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5291,
+  "date": "2018-06-09",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "019008",
+      "prizeAmount": 350000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "041062",
+      "prizeAmount": 14000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "047017",
+      "prizeAmount": 13000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "008441",
+      "prizeAmount": 11000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "046965",
+      "prizeAmount": 10020.0
+    }
+  ]
+}

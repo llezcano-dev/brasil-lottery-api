@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5335,
+  "date": "2018-11-10",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "001980",
+      "prizeAmount": 350000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "066044",
+      "prizeAmount": 14000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "041447",
+      "prizeAmount": 13000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "002138",
+      "prizeAmount": 11000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "018927",
+      "prizeAmount": 10020.0
+    }
+  ]
+}

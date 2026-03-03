@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4643,
+  "date": "2012-03-24",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "029850",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "008396",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "044427",
+      "prizeAmount": 3000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "067399",
+      "prizeAmount": 2700.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "011128",
+      "prizeAmount": 2566.0
+    }
+  ]
+}

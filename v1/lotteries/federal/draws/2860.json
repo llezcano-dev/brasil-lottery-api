@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2860,
+  "date": "1993-08-07",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "011087",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "069768",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "072939",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "062968",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "014616",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

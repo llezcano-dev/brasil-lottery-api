@@ -1,0 +1,31 @@
+{
+  "drawNumber": 615,
+  "date": "1968-11-16",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "035848",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "020050",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "032896",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "040457",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "010739",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

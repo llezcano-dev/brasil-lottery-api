@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3446,
+  "date": "2000-04-05",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "040717",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "057735",
+      "prizeAmount": 10000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "045103",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "025217",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "041195",
+      "prizeAmount": 4000.0
+    }
+  ]
+}

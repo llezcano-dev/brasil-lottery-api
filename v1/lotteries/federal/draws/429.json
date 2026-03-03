@@ -1,0 +1,31 @@
+{
+  "drawNumber": 429,
+  "date": "1967-01-14",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "015530",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "004125",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "009910",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "025116",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "012646",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

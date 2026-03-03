@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5811,
+  "date": "2023-10-25",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "019863",
+      "prizeAmount": 500000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "059751",
+      "prizeAmount": 27000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "048199",
+      "prizeAmount": 24000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "018398",
+      "prizeAmount": 19000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "032737",
+      "prizeAmount": 18329.0
+    }
+  ]
+}

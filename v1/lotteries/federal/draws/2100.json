@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2100,
+  "date": "1984-09-15",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "044045",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "013704",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "061759",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "030007",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "060799",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

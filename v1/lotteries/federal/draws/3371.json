@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3371,
+  "date": "1999-06-16",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "053770",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "000958",
+      "prizeAmount": 10000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "033205",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "004036",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "047548",
+      "prizeAmount": 4000.0
+    }
+  ]
+}

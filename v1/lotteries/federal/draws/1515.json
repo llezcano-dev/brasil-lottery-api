@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1515,
+  "date": "1978-05-31",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "058635",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "033438",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "033571",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "040278",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "002840",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

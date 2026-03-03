@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1465,
+  "date": "1977-11-16",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "030361",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "027997",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "030346",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "013450",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "009009",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

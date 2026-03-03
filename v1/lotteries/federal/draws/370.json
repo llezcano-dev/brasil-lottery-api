@@ -1,0 +1,31 @@
+{
+  "drawNumber": 370,
+  "date": "1966-06-15",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "030798",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "022853",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "013768",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "014707",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "014792",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

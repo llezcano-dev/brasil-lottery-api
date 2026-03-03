@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4408,
+  "date": "2009-12-19",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "075912",
+      "prizeAmount": 2000000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "050235",
+      "prizeAmount": 60000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "079561",
+      "prizeAmount": 50000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "046083",
+      "prizeAmount": 40000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "062555",
+      "prizeAmount": 28650.0
+    }
+  ]
+}

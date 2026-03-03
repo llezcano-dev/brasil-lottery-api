@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5592,
+  "date": "2021-08-28",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "044183",
+      "prizeAmount": 500000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "091219",
+      "prizeAmount": 27000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "066463",
+      "prizeAmount": 24000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "017672",
+      "prizeAmount": 19000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "084923",
+      "prizeAmount": 18329.0
+    }
+  ]
+}

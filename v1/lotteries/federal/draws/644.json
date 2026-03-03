@@ -1,0 +1,31 @@
+{
+  "drawNumber": 644,
+  "date": "1969-03-08",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "024811",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "032505",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "025479",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "038707",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "023856",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

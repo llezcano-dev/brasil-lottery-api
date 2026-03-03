@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3586,
+  "date": "2001-10-13",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "070413",
+      "prizeAmount": 100000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "071142",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "069204",
+      "prizeAmount": 3000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "023872",
+      "prizeAmount": 2000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "034618",
+      "prizeAmount": 1000.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3112,
+  "date": "1996-07-27",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "059137",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "018947",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "046107",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "050016",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "023582",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

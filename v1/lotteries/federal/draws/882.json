@@ -1,0 +1,31 @@
+{
+  "drawNumber": 882,
+  "date": "1971-08-07",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "038402",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "001976",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "016440",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "038343",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "029496",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

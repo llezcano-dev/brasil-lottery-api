@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4816,
+  "date": "2013-11-20",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "009025",
+      "prizeAmount": 250000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "024420",
+      "prizeAmount": 17100.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "028188",
+      "prizeAmount": 16600.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "000831",
+      "prizeAmount": 16100.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "062895",
+      "prizeAmount": 15200.0
+    }
+  ]
+}

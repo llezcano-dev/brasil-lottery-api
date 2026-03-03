@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1179,
+  "date": "1974-11-09",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "021828",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "044495",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "046458",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "006472",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "011135",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

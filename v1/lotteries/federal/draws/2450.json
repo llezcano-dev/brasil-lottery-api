@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2450,
+  "date": "1988-06-25",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "094247",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "010752",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "073725",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "085683",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "013663",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 6004,
+  "date": "2025-09-27",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "032948",
+      "prizeAmount": 1350000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "039154",
+      "prizeAmount": 40000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "051621",
+      "prizeAmount": 30000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "064959",
+      "prizeAmount": 20000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "034513",
+      "prizeAmount": 17339.0
+    }
+  ]
+}

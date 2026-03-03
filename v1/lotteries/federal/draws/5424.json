@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5424,
+  "date": "2019-09-18",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "012463",
+      "prizeAmount": 500000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "080035",
+      "prizeAmount": 27000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "083029",
+      "prizeAmount": 24000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "005844",
+      "prizeAmount": 19000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "075591",
+      "prizeAmount": 18329.0
+    }
+  ]
+}

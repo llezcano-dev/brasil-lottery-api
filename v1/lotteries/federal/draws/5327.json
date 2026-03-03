@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5327,
+  "date": "2018-10-13",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "016145",
+      "prizeAmount": 450000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "076147",
+      "prizeAmount": 23000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "037912",
+      "prizeAmount": 20000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "007820",
+      "prizeAmount": 18400.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "075574",
+      "prizeAmount": 15075.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5944,
+  "date": "2025-02-22",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "074468",
+      "prizeAmount": 1350000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "069903",
+      "prizeAmount": 15500.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "053635",
+      "prizeAmount": 14000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "063088",
+      "prizeAmount": 13000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "022525",
+      "prizeAmount": 12227.0
+    }
+  ]
+}

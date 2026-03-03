@@ -1,0 +1,31 @@
+{
+  "drawNumber": 355,
+  "date": "1966-04-23",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "019824",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "032296",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "013686",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "025618",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "011622",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

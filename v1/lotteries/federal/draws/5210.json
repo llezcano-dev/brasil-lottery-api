@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5210,
+  "date": "2017-08-30",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "006140",
+      "prizeAmount": 350000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "077096",
+      "prizeAmount": 18000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "055693",
+      "prizeAmount": 15000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "015843",
+      "prizeAmount": 12000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "077617",
+      "prizeAmount": 10888.0
+    }
+  ]
+}

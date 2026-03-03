@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3204,
+  "date": "1997-08-20",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "050891",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "014984",
+      "prizeAmount": 15000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "037130",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "014988",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "027489",
+      "prizeAmount": 3000.0
+    }
+  ]
+}
