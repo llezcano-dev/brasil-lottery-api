@@ -1,0 +1,31 @@
+{
+  "drawNumber": 365,
+  "date": "1966-05-28",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "005769",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "025759",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "034358",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "028753",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "013235",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5363,
+  "date": "2019-02-16",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "008047",
+      "prizeAmount": 350000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "078683",
+      "prizeAmount": 15000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "058115",
+      "prizeAmount": 13000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "027572",
+      "prizeAmount": 11300.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "002348",
+      "prizeAmount": 10379.0
+    }
+  ]
+}

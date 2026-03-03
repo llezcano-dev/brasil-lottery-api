@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4709,
+  "date": "2012-11-10",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "026128",
+      "prizeAmount": 1000000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "045730",
+      "prizeAmount": 22000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "089080",
+      "prizeAmount": 16300.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "055654",
+      "prizeAmount": 15800.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "003017",
+      "prizeAmount": 15680.0
+    }
+  ]
+}

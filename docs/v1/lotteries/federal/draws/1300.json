@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1300,
+  "date": "1976-02-14",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "035577",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "001118",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "038791",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "032916",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "043359",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

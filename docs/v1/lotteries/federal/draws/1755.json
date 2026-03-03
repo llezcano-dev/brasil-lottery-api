@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1755,
+  "date": "1980-12-20",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "061459",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "009883",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "044652",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "020639",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "048452",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

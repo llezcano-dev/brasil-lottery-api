@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3576,
+  "date": "2001-09-01",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "057635",
+      "prizeAmount": 100000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "056336",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "050432",
+      "prizeAmount": 3000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "058444",
+      "prizeAmount": 2000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "063026",
+      "prizeAmount": 1000.0
+    }
+  ]
+}

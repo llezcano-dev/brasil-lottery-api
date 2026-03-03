@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4235,
+  "date": "2008-04-19",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "033051",
+      "prizeAmount": 100000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "037046",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "043467",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "008490",
+      "prizeAmount": 3000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "002322",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

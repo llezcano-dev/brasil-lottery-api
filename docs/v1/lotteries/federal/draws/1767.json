@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1767,
+  "date": "1981-02-07",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "006611",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "007078",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "072659",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "077621",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "039473",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3316,
+  "date": "1998-11-11",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "069921",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "025364",
+      "prizeAmount": 15000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "047773",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "022535",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "012375",
+      "prizeAmount": 3000.0
+    }
+  ]
+}

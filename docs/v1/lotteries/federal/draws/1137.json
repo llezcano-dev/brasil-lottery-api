@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1137,
+  "date": "1974-06-05",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "022786",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "016029",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "001521",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "022476",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "030039",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

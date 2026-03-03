@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5148,
+  "date": "2017-01-25",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "014913",
+      "prizeAmount": 350000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "078698",
+      "prizeAmount": 19000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "043151",
+      "prizeAmount": 16000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "024699",
+      "prizeAmount": 14000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "061010",
+      "prizeAmount": 12012.0
+    }
+  ]
+}

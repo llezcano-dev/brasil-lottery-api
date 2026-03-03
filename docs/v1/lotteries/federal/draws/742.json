@@ -1,0 +1,31 @@
+{
+  "drawNumber": 742,
+  "date": "1970-03-04",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "022610",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "026498",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "039201",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "051724",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "008404",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

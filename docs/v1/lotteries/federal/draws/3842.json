@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3842,
+  "date": "2004-06-19",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "060140",
+      "prizeAmount": 100000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "044159",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "058898",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "048682",
+      "prizeAmount": 3000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "037087",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

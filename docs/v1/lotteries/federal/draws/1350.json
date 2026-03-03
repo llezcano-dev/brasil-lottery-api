@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1350,
+  "date": "1976-08-25",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "054350",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "055543",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "025283",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "013212",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "015779",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

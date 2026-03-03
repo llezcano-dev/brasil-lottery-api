@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3475,
+  "date": "2000-07-29",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "004089",
+      "prizeAmount": 100000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "048865",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "032396",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "011659",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "061231",
+      "prizeAmount": 3000.0
+    }
+  ]
+}

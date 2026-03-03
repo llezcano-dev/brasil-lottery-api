@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3079,
+  "date": "1996-03-09",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "057576",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "021896",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "003432",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "037234",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "015654",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

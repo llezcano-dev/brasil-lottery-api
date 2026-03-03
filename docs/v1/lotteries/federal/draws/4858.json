@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4858,
+  "date": "2014-04-16",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "060024",
+      "prizeAmount": 250000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "086460",
+      "prizeAmount": 16300.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "052905",
+      "prizeAmount": 16000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "078063",
+      "prizeAmount": 15800.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "007817",
+      "prizeAmount": 15223.0
+    }
+  ]
+}

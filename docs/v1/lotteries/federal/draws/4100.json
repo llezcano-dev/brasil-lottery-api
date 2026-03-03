@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4100,
+  "date": "2006-12-30",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "029313",
+      "prizeAmount": 350000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "067026",
+      "prizeAmount": 15000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "061175",
+      "prizeAmount": 10000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "073453",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "034004",
+      "prizeAmount": 6000.0
+    }
+  ]
+}

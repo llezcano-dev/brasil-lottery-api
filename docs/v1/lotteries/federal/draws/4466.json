@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4466,
+  "date": "2010-07-14",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "056031",
+      "prizeAmount": 250000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "082892",
+      "prizeAmount": 22000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "016635",
+      "prizeAmount": 12000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "066667",
+      "prizeAmount": 11000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "031030",
+      "prizeAmount": 10320.0
+    }
+  ]
+}

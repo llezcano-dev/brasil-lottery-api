@@ -1,0 +1,31 @@
+{
+  "drawNumber": 657,
+  "date": "1969-04-26",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "016716",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "027258",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "015608",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "003549",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "037899",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

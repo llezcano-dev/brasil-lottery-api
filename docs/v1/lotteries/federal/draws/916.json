@@ -1,0 +1,31 @@
+{
+  "drawNumber": 916,
+  "date": "1971-12-15",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "033423",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "005668",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "042249",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "017199",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "013783",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

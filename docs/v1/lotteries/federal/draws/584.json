@@ -1,0 +1,31 @@
+{
+  "drawNumber": 584,
+  "date": "1968-07-24",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "027069",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "009541",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "052375",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "054603",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "048557",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

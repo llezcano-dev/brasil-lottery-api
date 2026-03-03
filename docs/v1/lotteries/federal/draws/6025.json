@@ -1,0 +1,31 @@
+{
+  "drawNumber": 6025,
+  "date": "2025-12-10",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "024385",
+      "prizeAmount": 500000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "034181",
+      "prizeAmount": 35000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "052602",
+      "prizeAmount": 30000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "045231",
+      "prizeAmount": 25000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "034375",
+      "prizeAmount": 20363.0
+    }
+  ]
+}

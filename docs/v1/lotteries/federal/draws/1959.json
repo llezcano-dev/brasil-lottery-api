@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1959,
+  "date": "1983-03-09",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "034209",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "000503",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "059321",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "016599",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "038310",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

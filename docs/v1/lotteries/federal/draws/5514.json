@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5514,
+  "date": "2020-11-14",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "050313",
+      "prizeAmount": 500000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "097646",
+      "prizeAmount": 27000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "081313",
+      "prizeAmount": 24000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "099365",
+      "prizeAmount": 19000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "025860",
+      "prizeAmount": 18329.0
+    }
+  ]
+}

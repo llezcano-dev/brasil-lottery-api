@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4371,
+  "date": "2009-08-12",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "077992",
+      "prizeAmount": 250000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "059036",
+      "prizeAmount": 26000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "036620",
+      "prizeAmount": 15000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "021741",
+      "prizeAmount": 9630.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "002535",
+      "prizeAmount": 8000.0
+    }
+  ]
+}

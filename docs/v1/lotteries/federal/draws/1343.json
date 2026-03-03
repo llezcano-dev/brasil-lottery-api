@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1343,
+  "date": "1976-07-28",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "046260",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "056877",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "046250",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "026374",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "027947",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

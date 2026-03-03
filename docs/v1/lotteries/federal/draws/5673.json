@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5673,
+  "date": "2022-06-18",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "037325",
+      "prizeAmount": 500000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "062360",
+      "prizeAmount": 27000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "063706",
+      "prizeAmount": 24000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "065266",
+      "prizeAmount": 19000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "073892",
+      "prizeAmount": 18329.0
+    }
+  ]
+}

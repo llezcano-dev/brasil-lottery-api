@@ -1,0 +1,31 @@
+{
+  "drawNumber": 461,
+  "date": "1967-05-10",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "000320",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "035616",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "039448",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "022691",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "024637",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

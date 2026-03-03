@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4959,
+  "date": "2015-04-04",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "097984",
+      "prizeAmount": 300000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "058742",
+      "prizeAmount": 18600.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "003649",
+      "prizeAmount": 18500.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "053749",
+      "prizeAmount": 18400.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "062746",
+      "prizeAmount": 18304.0
+    }
+  ]
+}

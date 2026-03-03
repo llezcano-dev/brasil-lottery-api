@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4297,
+  "date": "2008-11-26",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "002768",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "041845",
+      "prizeAmount": 20000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "064547",
+      "prizeAmount": 10000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "001405",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "059023",
+      "prizeAmount": 6000.0
+    }
+  ]
+}

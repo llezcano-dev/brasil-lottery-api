@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4796,
+  "date": "2013-09-11",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "005624",
+      "prizeAmount": 250000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "005340",
+      "prizeAmount": 17100.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "069546",
+      "prizeAmount": 16600.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "015651",
+      "prizeAmount": 16100.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "013759",
+      "prizeAmount": 15200.0
+    }
+  ]
+}

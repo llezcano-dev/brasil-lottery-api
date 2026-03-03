@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3378,
+  "date": "1999-07-14",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "047155",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "021613",
+      "prizeAmount": 10000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "064054",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "044121",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "023126",
+      "prizeAmount": 4000.0
+    }
+  ]
+}

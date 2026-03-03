@@ -1,0 +1,31 @@
+{
+  "drawNumber": 285,
+  "date": "1965-08-11",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "016380",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "002543",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "002212",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "005981",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "031234",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

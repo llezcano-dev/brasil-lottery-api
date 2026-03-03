@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2783,
+  "date": "1992-03-21",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "001201",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "054784",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "044015",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "069316",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "039305",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

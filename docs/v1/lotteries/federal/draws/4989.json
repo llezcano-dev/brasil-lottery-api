@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4989,
+  "date": "2015-07-18",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "086650",
+      "prizeAmount": 300000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "071492",
+      "prizeAmount": 18600.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "040185",
+      "prizeAmount": 18500.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "022323",
+      "prizeAmount": 18400.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "005820",
+      "prizeAmount": 18304.0
+    }
+  ]
+}

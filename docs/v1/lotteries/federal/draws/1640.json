@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1640,
+  "date": "1979-09-26",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "033973",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "028527",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "015437",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "031661",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "037417",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

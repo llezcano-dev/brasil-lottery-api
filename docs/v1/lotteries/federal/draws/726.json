@@ -1,0 +1,31 @@
+{
+  "drawNumber": 726,
+  "date": "1969-12-31",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "045566",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "022099",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "041966",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "022760",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "034868",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

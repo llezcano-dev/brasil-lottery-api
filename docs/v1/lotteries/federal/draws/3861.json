@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3861,
+  "date": "2004-08-25",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "052667",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "053053",
+      "prizeAmount": 12000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "014645",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "031022",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "053565",
+      "prizeAmount": 4000.0
+    }
+  ]
+}

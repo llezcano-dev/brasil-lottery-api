@@ -1,0 +1,31 @@
+{
+  "drawNumber": 417,
+  "date": "1966-12-03",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "025755",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "037457",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "016822",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "021142",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "023179",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

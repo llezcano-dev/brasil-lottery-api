@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3869,
+  "date": "2004-09-22",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "070639",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "051146",
+      "prizeAmount": 12000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "066546",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "049924",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "038613",
+      "prizeAmount": 4000.0
+    }
+  ]
+}

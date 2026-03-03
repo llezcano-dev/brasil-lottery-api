@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3767,
+  "date": "2003-09-10",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "072380",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "025605",
+      "prizeAmount": 12000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "058293",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "062617",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "029980",
+      "prizeAmount": 4000.0
+    }
+  ]
+}

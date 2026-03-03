@@ -1,0 +1,31 @@
+{
+  "drawNumber": 6035,
+  "date": "2026-01-21",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "021350",
+      "prizeAmount": 500000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "077114",
+      "prizeAmount": 35000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "034608",
+      "prizeAmount": 30000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "039209",
+      "prizeAmount": 25000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "022964",
+      "prizeAmount": 20363.0
+    }
+  ]
+}

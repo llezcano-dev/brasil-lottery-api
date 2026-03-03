@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2697,
+  "date": "1991-04-13",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "027906",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "025630",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "055273",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "063971",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "045361",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1818,
+  "date": "1981-08-29",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "012805",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "030153",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "076833",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "021007",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "058082",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

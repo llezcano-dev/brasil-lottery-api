@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3189,
+  "date": "1997-06-25",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "047956",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "005093",
+      "prizeAmount": 15000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "026253",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "010173",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "024851",
+      "prizeAmount": 3000.0
+    }
+  ]
+}

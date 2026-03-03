@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5827,
+  "date": "2023-12-23",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "001413",
+      "prizeAmount": 1350000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "007634",
+      "prizeAmount": 15500.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "004028",
+      "prizeAmount": 14000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "084015",
+      "prizeAmount": 13000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "073349",
+      "prizeAmount": 12227.0
+    }
+  ]
+}

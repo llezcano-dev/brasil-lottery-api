@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3762,
+  "date": "2003-08-23",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "051427",
+      "prizeAmount": 100000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "000607",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "021658",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "052310",
+      "prizeAmount": 3000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "004271",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

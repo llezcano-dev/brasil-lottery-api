@@ -1,0 +1,31 @@
+{
+  "drawNumber": 428,
+  "date": "1967-01-11",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "005411",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "021232",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "002825",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "036722",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "019711",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

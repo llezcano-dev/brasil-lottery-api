@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3486,
+  "date": "2000-09-09",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "011044",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "031058",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "020213",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "056146",
+      "prizeAmount": 3000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "006320",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3806,
+  "date": "2004-02-04",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "049202",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "009042",
+      "prizeAmount": 12000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "052169",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "003071",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "061136",
+      "prizeAmount": 4000.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 796,
+  "date": "1970-09-12",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "022039",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "007648",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "013301",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "051727",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "053775",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

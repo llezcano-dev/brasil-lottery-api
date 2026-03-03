@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2495,
+  "date": "1988-12-14",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "081413",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "098019",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "017568",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "070003",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "006516",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

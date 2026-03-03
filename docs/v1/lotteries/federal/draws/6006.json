@@ -1,0 +1,31 @@
+{
+  "drawNumber": 6006,
+  "date": "2025-10-04",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "021844",
+      "prizeAmount": 500000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "082593",
+      "prizeAmount": 35000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "021782",
+      "prizeAmount": 30000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "041273",
+      "prizeAmount": 25000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "091017",
+      "prizeAmount": 20503.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4014,
+  "date": "2006-03-02",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "059980",
+      "prizeAmount": 100000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "016424",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "040955",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "073979",
+      "prizeAmount": 3000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "044283",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

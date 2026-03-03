@@ -1,0 +1,31 @@
+{
+  "drawNumber": 813,
+  "date": "1970-11-11",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "029444",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "042299",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "038513",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "052554",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "042958",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

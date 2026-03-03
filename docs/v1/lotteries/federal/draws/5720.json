@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5720,
+  "date": "2022-11-30",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "070502",
+      "prizeAmount": 500000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "095735",
+      "prizeAmount": 27000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "008519",
+      "prizeAmount": 24000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "058331",
+      "prizeAmount": 19000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "096624",
+      "prizeAmount": 18329.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4026,
+  "date": "2006-04-12",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "033683",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "000622",
+      "prizeAmount": 12000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "017674",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "036371",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "063177",
+      "prizeAmount": 4000.0
+    }
+  ]
+}

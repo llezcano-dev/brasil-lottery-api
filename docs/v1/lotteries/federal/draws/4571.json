@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4571,
+  "date": "2011-07-16",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "079694",
+      "prizeAmount": 1000000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "066552",
+      "prizeAmount": 24000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "051141",
+      "prizeAmount": 14500.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "047511",
+      "prizeAmount": 14000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "038165",
+      "prizeAmount": 12240.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1970,
+  "date": "1983-04-20",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "060330",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "051654",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "061097",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "070031",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "002068",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

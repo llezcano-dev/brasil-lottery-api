@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3453,
+  "date": "2000-05-06",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "063351",
+      "prizeAmount": 100000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "027470",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "062969",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "036918",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "057942",
+      "prizeAmount": 3000.0
+    }
+  ]
+}

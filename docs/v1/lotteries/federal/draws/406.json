@@ -1,0 +1,31 @@
+{
+  "drawNumber": 406,
+  "date": "1966-10-22",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "029951",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "015075",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "007654",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "024311",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "002832",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

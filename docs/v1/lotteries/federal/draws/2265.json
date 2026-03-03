@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2265,
+  "date": "1986-06-28",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "039913",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "081100",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "021506",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "031078",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "049154",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

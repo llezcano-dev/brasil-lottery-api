@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1234,
+  "date": "1975-06-07",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "018896",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "011194",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "046655",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "031793",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "022416",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

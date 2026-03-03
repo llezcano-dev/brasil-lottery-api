@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2666,
+  "date": "1990-12-08",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "079547",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "056790",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "055940",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "076573",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "066971",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

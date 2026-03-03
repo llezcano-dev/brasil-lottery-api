@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2558,
+  "date": "1989-08-26",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "014849",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "023239",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "034727",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "061239",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "031351",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1877,
+  "date": "1982-04-17",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "049922",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "034091",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "017012",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "048571",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "028052",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

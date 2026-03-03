@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3294,
+  "date": "1998-08-15",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "042219",
+      "prizeAmount": 100000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "056845",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "033705",
+      "prizeAmount": 3000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "023857",
+      "prizeAmount": 2000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "019287",
+      "prizeAmount": 1000.0
+    }
+  ]
+}

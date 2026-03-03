@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3062,
+  "date": "1995-12-30",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "001635",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "043518",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "040159",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "057598",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "033272",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4652,
+  "date": "2012-04-25",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "034702",
+      "prizeAmount": 250000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "069787",
+      "prizeAmount": 23000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "076322",
+      "prizeAmount": 13000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "029898",
+      "prizeAmount": 11800.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "007177",
+      "prizeAmount": 10765.0
+    }
+  ]
+}

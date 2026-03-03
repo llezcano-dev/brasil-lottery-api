@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4037,
+  "date": "2006-05-20",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "055593",
+      "prizeAmount": 100000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "057913",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "049578",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "031560",
+      "prizeAmount": 3000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "026564",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

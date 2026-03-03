@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2537,
+  "date": "1989-06-07",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "076389",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "012859",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "075712",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "054039",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "070673",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1123,
+  "date": "1974-04-13",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "021409",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "010865",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "030500",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "021788",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "045742",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5109,
+  "date": "2016-09-10",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "044059",
+      "prizeAmount": 1350000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "087833",
+      "prizeAmount": 25000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "084850",
+      "prizeAmount": 21000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "011658",
+      "prizeAmount": 19000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "037402",
+      "prizeAmount": 18055.0
+    }
+  ]
+}

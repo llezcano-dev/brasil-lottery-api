@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3128,
+  "date": "1996-09-28",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "037559",
+      "prizeAmount": 5000000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "004228",
+      "prizeAmount": 400000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "015008",
+      "prizeAmount": 175000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "022988",
+      "prizeAmount": 100000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "064786",
+      "prizeAmount": 75000.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2888,
+  "date": "1994-01-08",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "056179",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "059993",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "002413",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "022761",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "039721",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

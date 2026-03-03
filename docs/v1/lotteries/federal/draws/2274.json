@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2274,
+  "date": "1986-07-30",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "007094",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "077160",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "029726",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "035022",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "020806",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

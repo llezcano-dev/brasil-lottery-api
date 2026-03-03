@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2974,
+  "date": "1994-12-14",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "006782",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "004644",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "007019",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "000654",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "001238",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

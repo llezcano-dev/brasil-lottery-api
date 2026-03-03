@@ -1,0 +1,31 @@
+{
+  "drawNumber": 199,
+  "date": "1964-09-26",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "001795",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "021357",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "004129",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "001248",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "031523",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

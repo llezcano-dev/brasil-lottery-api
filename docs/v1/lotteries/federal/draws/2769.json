@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2769,
+  "date": "1992-01-29",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "008298",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "031920",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "007830",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "030158",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "043238",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

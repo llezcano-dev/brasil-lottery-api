@@ -1,0 +1,31 @@
+{
+  "drawNumber": 2870,
+  "date": "1993-10-16",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "034760",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "053350",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "057175",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "055385",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "023450",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

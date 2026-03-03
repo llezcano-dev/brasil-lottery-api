@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3246,
+  "date": "1998-01-31",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "032114",
+      "prizeAmount": 100000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "022684",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "004181",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "016429",
+      "prizeAmount": 2000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "042388",
+      "prizeAmount": 1500.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3947,
+  "date": "2005-06-29",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "042920",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "000669",
+      "prizeAmount": 12000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "018055",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "060419",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "054277",
+      "prizeAmount": 4000.0
+    }
+  ]
+}

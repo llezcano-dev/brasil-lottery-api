@@ -1,0 +1,31 @@
+{
+  "drawNumber": 91,
+  "date": "1963-08-21",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "008509",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "000720",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "004283",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "006022",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "027429",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

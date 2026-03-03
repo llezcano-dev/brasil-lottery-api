@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3217,
+  "date": "1997-10-08",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "053838",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "051334",
+      "prizeAmount": 15000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "046630",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "000595",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "053348",
+      "prizeAmount": 3000.0
+    }
+  ]
+}

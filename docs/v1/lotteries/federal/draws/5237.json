@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5237,
+  "date": "2017-12-02",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "018846",
+      "prizeAmount": 350000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "018967",
+      "prizeAmount": 18000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "025586",
+      "prizeAmount": 15000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "083574",
+      "prizeAmount": 12350.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "017089",
+      "prizeAmount": 10073.0
+    }
+  ]
+}

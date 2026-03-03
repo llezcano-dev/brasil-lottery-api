@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4323,
+  "date": "2009-02-25",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "025797",
+      "prizeAmount": 100000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "078070",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "027959",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "049949",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "078778",
+      "prizeAmount": 4000.0
+    }
+  ]
+}

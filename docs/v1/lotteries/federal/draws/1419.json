@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1419,
+  "date": "1977-05-21",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "052161",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "026316",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "044642",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "028741",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "019327",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

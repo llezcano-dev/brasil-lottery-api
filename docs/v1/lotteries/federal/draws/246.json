@@ -1,0 +1,31 @@
+{
+  "drawNumber": 246,
+  "date": "1965-03-20",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "007632",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "018369",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "004434",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "028835",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "015523",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

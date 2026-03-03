@@ -1,0 +1,31 @@
+{
+  "drawNumber": 1571,
+  "date": "1978-12-30",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "039506",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "012428",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "016314",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "009652",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "019243",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

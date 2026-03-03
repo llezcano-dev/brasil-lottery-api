@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3099,
+  "date": "1996-06-01",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "054208",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "000145",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "020130",
+      "prizeAmount": 5000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "037996",
+      "prizeAmount": 4000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "028475",
+      "prizeAmount": 2000.0
+    }
+  ]
+}

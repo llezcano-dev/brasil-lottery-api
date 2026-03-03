@@ -1,0 +1,31 @@
+{
+  "drawNumber": 5009,
+  "date": "2015-09-26",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "072144",
+      "prizeAmount": 300000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "049251",
+      "prizeAmount": 18600.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "051791",
+      "prizeAmount": 18500.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "061208",
+      "prizeAmount": 18400.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "097887",
+      "prizeAmount": 18304.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4782,
+  "date": "2013-07-24",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "095098",
+      "prizeAmount": 250000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "017247",
+      "prizeAmount": 17100.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "031389",
+      "prizeAmount": 16600.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "011058",
+      "prizeAmount": 16100.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "068955",
+      "prizeAmount": 15200.0
+    }
+  ]
+}

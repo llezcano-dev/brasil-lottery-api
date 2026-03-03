@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4048,
+  "date": "2006-06-28",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "067118",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "046365",
+      "prizeAmount": 12000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "055632",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "033745",
+      "prizeAmount": 6000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "072639",
+      "prizeAmount": 4000.0
+    }
+  ]
+}

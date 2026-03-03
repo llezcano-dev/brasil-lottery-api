@@ -1,0 +1,31 @@
+{
+  "drawNumber": 4444,
+  "date": "2010-04-24",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "063029",
+      "prizeAmount": 200000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "079742",
+      "prizeAmount": 10500.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "031864",
+      "prizeAmount": 8000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "052397",
+      "prizeAmount": 5130.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "065206",
+      "prizeAmount": 3500.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drawNumber": 3115,
+  "date": "1996-08-10",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "004004",
+      "prizeAmount": 9000000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "023432",
+      "prizeAmount": 450000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "039843",
+      "prizeAmount": 210000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "026774",
+      "prizeAmount": 180000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "058877",
+      "prizeAmount": 150000.0
+    }
+  ]
+}
