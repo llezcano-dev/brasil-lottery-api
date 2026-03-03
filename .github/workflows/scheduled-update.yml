@@ -6,7 +6,7 @@ permissions:
 on:
   schedule:
     # Run at 22:15 on Wednesday and Saturday (Brasilia is UTC-3)
-    - cron: '15 22 * * 3,6'
+    - cron: '55 22 * * 3,6'
   workflow_dispatch: # Allow manual trigger for testing
 
 jobs:
