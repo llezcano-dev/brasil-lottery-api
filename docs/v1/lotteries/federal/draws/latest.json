@@ -1,31 +1,31 @@
 {
-  "drawNumber": "6077",
-  "date": "2026-06-25",
+  "drawNumber": "6078",
+  "date": "2026-06-27",
   "results": [
     {
       "position": 1,
-      "winningNumber": "014291",
+      "winningNumber": "006440",
       "prizeAmount": 500000.0
     },
     {
       "position": 2,
-      "winningNumber": "026208",
+      "winningNumber": "053888",
       "prizeAmount": 35000.0
     },
     {
       "position": 3,
-      "winningNumber": "046381",
+      "winningNumber": "007818",
       "prizeAmount": 30000.0
     },
     {
       "position": 4,
-      "winningNumber": "007897",
+      "winningNumber": "000467",
       "prizeAmount": 25000.0
     },
     {
       "position": 5,
-      "winningNumber": "063341",
-      "prizeAmount": 20363.0
+      "winningNumber": "015020",
+      "prizeAmount": 20503.0
     }
   ]
 }
