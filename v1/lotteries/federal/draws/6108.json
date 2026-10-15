@@ -1,0 +1,31 @@
+{
+  "drawNumber": "6108",
+  "date": "2026-10-11",
+  "results": [
+    {
+      "position": 1,
+      "winningNumber": "069795",
+      "prizeAmount": 500000.0
+    },
+    {
+      "position": 2,
+      "winningNumber": "085844",
+      "prizeAmount": 35000.0
+    },
+    {
+      "position": 3,
+      "winningNumber": "078905",
+      "prizeAmount": 30000.0
+    },
+    {
+      "position": 4,
+      "winningNumber": "052440",
+      "prizeAmount": 25000.0
+    },
+    {
+      "position": 5,
+      "winningNumber": "011501",
+      "prizeAmount": 20503.0
+    }
+  ]
+}
